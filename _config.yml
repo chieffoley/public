@@ -3,8 +3,6 @@
 # Import the theme
 theme: jekyll-theme-chirpy
 
-baseurl: "/public" # the subpath of your site, e.g. /blog
-url: "https://chieffoley.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
@@ -17,16 +15,18 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Chief's Page # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: A place to share my creations 
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  A collection of photos and writings
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+#url: ""
+baseurl: "/public" # the subpath of your site, e.g. /blog
+url: "https://chieffoley.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 github:
   username: github_username # change to your github username
