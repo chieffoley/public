@@ -17,12 +17,8 @@ _Brown Pelican soaring over Sebastion Inlet_
 
 ---
 
-![Brown Pelican](/assets/images/2024-02-24-sebastion-inlet-17.JPG)
-_Pelican skimming the water_
-
----
-
 ![Brown Pelican](/assets/images/2024-02-24-sebastion-inlet-19.JPG)
+_Brown Pelican skimming the water (I guess Brown Pelicans come in different colors)_
 
 ---
 

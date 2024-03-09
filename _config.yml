@@ -15,19 +15,19 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chief's Page # the main title
+title: Chief's Page 
 
-tagline: A place to share my creations 
+tagline: Above all else, guard your heart, for everything else flows from it.
 
 description: >- # used by seo meta and the atom feed
   A collection of photos and writings
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-#url: ""
+url: ""
 # for github uncomment the following two lines, comment them for local server
-baseurl: "/public" # the subpath of your site, e.g. /blog
-url: "https://chieffoley.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+#baseurl: "/public" # the subpath of your site, e.g. /blog
+#url: "https://chieffoley.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 github:
   username: github_username # change to your github username
@@ -80,7 +80,7 @@ theme_mode: # [light | dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: assets/avatar_lizard-1.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
