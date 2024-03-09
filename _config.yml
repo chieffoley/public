@@ -24,10 +24,10 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+#url: ""
 # for github uncomment the following two lines, comment them for local server
-#baseurl: "/public" # the subpath of your site, e.g. /blog
-#url: "https://chieffoley.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/public" # the subpath of your site, e.g. /blog
+url: "https://chieffoley.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 github:
   username: github_username # change to your github username
