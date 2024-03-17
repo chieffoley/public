@@ -175,6 +175,7 @@ defaults:
       comments: false
   - scope:
       path: photo_info
+      permalink: /:title/
     values:
       layout: page
   - scope:
