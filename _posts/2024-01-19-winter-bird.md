@@ -8,9 +8,9 @@ Saw this visitor outside the basement window while I was working, and snapped a 
 
 ![1](/images/2024-01-19-winter-bird/winter-bird-1.jpg)
 
-[photo info](/photo_info/pi-2024-01-19-winter-bird-1.html)
+photo info](/photo_info/pi-2024-01-19-winter-bird-1.html)
 
 ![2](/images/2024-01-19-winter-bird/winter-bird-2.jpg)
 
-[photo info](/photo_info/pi-2024-01-19-winter-bird-2.html)
+photo info](/photo_info/pi-2024-01-19-winter-bird-2.html)
 
