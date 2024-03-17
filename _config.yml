@@ -165,7 +165,7 @@ defaults:
       comments: false
   - scope:
       path: ""
-      type: tabs # see 'site.collections'
+      type: tabs # see `site.collections`
     values:
       layout: page
       permalink: /:title/
