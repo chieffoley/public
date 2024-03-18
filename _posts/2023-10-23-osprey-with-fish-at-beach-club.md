@@ -1,10 +1,10 @@
 ---
-title: Osprey with fish at Beach Club
+title: Osprey with Fish at Beach Club
 categories: ['photography']
 tags: ['osprey', 'bird', 'beach-club', 'photography']
 ---
 
-When we stayed at Beach Club in October 2023, there was an osprey that was living at the pond in front of our condo.  So, I would sit and work at the balcony slider, keeping an eye for activity from the osprey, he usually perched right across the pond from me.  One afternoon I heard him screeching and looked out and he was flying circles around the pond, screeching at the top of his lungs, with a fish in his claws; he was so happy and proud he had to let everyone know.  I grabbed my camera and snapped a few photos.
+When we stayed at Beach Club in October 2023, there was an osprey that was living at the pond in front of our condo.  So, I would sit and work at the balcony slider, keeping an eye for activity from the osprey, he usually perched right across the pond from me.  One afternoon I heard him screeching and I looked out; he was flying circles around the pond, screeching at the top of his lungs, with a fish in his claws; he was so happy and proud that he had to let everyone know.  I grabbed my camera and snapped a few photos.
 
 ![1](/images/2023-10-23-osprey-with-fish-at-beach-club/osprey-with-fish-at-beach-club-1.jpg)
 
