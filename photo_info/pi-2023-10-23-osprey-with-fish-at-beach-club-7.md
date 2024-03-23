@@ -4,6 +4,7 @@ categories: [pic-info]
 tags: [pic-info]
 ---
 
+```text
           Date Taken:  2023:10:23 16:38:14
         Camera Model:  Canon EOS R5
           Lens Model:  EF70-300mm f/4-5.6L IS USM
@@ -15,3 +16,5 @@ tags: [pic-info]
         X Resolution:  600.0
         Y Resolution:  600.0
             keywords:  
+```
+{: file="camera nerd stats" }

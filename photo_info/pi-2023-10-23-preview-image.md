@@ -1,16 +1,16 @@
 ---
-title: osprey-with-fish-at-beach-club-1.jpg
+title: preview-image.jpg
 categories: [pic-info]
 tags: [pic-info]
 ---
 
 ```text
-          Date Taken:  2023:10:23 16:37:31
+          Date Taken:  2023:10:23 16:40:49
         Camera Model:  Canon EOS R5
           Lens Model:  EF70-300mm f/4-5.6L IS USM
               F-Stop:  5.6
        Exposure Time:  1/2000
-                 ISO:  1250
+                 ISO:  100
         Focal Length:  260.0
     Exposure Program:  Manual
         X Resolution:  600.0
