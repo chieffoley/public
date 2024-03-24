@@ -2,7 +2,11 @@
 title: Bursting Sunrise at Canova Beach
 categories: ['photography']
 tags: ['sunrise', 'landscape', 'photography']
+image: /images/2023-10-24-bursting-sunrise-at-canova-beach/preview-image.jpg
+image_wide: True
 ---
+
+Just another epic sunrise in Melbourne, Florida.
 
 ![1](/images/2023-10-24-bursting-sunrise-at-canova-beach/bursting-sunrise-at-canova-beach-1.jpg)
 
