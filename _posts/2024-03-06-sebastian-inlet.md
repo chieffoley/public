@@ -2,6 +2,8 @@
 title: Sebastian Inlet
 categories: [photography]
 tags: [photography, bird, wildlife]     # TAG names should always be lowercase
+image: /images/florida-birds-2024-02-24/preview-image.jpg
+image_wide: True
 ---
 
 Kristin and I visited Sebastian Inlet in Florida on 2/24/24, where we saw a lot of wildlife and got some great pictures. 
