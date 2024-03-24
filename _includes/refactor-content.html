@@ -130,8 +130,8 @@
     {% endif %}
 
     {% if page.layout == 'home' %}
-      <!-- create the image wrapper -->
-      {% assign _wrapper_start = '<div class="preview-img ' | append: _class | append: '">' %}
+      <!-- create the image wrapper (3/24/2024 - I removed "preview-img" from class) -->
+      {% assign _wrapper_start = '<div class="' | append: _class | append: '">' %}
 
       {% assign _img_content = _img_content | append: _wrapper_start %}
       {% assign _right = _right | prepend: '></div' %}
