@@ -17,4 +17,7 @@ tags: [pic-info]
         Y Resolution:  600.0
             keywords:  
 ```
-{: file="camera nerd stats" }
+{: file="camera nerd stats hi" }
+
+[back to photo page]({% link _posts/2023-10-19-beach-birds.md %}#pic-4)
+
