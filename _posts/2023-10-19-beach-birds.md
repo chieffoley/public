@@ -1,0 +1,23 @@
+---
+title: Beach Birds
+categories: ['photography']
+tags: ['beach', 'birds', 'photography']
+image: /images/2023-10-19-beach-birds/preview-image.jpg
+image_wide: True
+---
+
+![1](/images/2023-10-19-beach-birds/beach-birds-1.jpg)
+_A Ruddy Turnstone &nbsp; &nbsp; <a href='{% link photo_info/pi-2023-10-19-beach-birds-1.md %}'><i class="fa fa-info-circle" style="font-size: 0.73em;"></i></a>_
+
+![2](/images/2023-10-19-beach-birds/beach-birds-2.jpg)
+_<a href='{% link photo_info/pi-2023-10-19-beach-birds-2.md %}'><i class="fa fa-info-circle" style="font-size: 0.73em;"></i></a>_
+
+![3](/images/2023-10-19-beach-birds/beach-birds-3.jpg)
+_([photo info]({% link photo_info/pi-2023-10-19-beach-birds-3.md %}))_
+
+![4](/images/2023-10-19-beach-birds/beach-birds-4.jpg)
+_([photo info]({% link photo_info/pi-2023-10-19-beach-birds-4.md %}))_
+
+![5](/images/2023-10-19-beach-birds/beach-birds-5.jpg)
+_([photo info]({% link photo_info/pi-2023-10-19-beach-birds-5.md %}))_
+
