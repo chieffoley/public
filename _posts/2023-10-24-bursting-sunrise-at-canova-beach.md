@@ -1,7 +1,7 @@
 ---
 title: Bursting Sunrise at Canova Beach
 categories: ['photography']
-tags: ['sunrise', 'landscape', 'photography']
+tags: [sunrise, landscape, photography, florida]
 image: /images/2023-10-24-bursting-sunrise-at-canova-beach/preview-image.jpg
 image_wide: True
 ---

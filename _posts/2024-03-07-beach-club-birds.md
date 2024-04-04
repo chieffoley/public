@@ -1,7 +1,7 @@
 ---
 title: Beach Club Birds
 categories: [photography]
-tags: [photography, bird, wildlife]
+tags: [photography, bird, wildlife, florida]
 ---
 
 These are some birds I saw at Beach Club's pond while visiting in February of 2024.

@@ -15,3 +15,6 @@ tags: [pic-info]
         X Resolution:  600.0
         Y Resolution:  600.0
             keywords:  animal, bird, characteristics, photo-style, snow, wildlife
+{: file="camera nerd stats" }
+
+[back to post]({% link _posts/2024-01-19-winter-bird.md %}#pic-2)

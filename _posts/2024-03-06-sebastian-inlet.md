@@ -1,7 +1,7 @@
 ---
 title: Sebastian Inlet
 categories: [photography]
-tags: [photography, bird, wildlife]     # TAG names should always be lowercase
+tags: [photography, bird, wildlife, florida]    
 image: /images/florida-birds-2024-02-24/preview-image.jpg
 image_wide: True
 ---

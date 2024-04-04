@@ -1,7 +1,7 @@
 ---
 title: Beach Birds
 categories: ['photography']
-tags: ['beach', 'birds', 'photography']
+tags: ['beach', 'bird', 'wildlife', 'photography', 'florida']
 image: /images/2023-10-19-beach-birds/preview-image.jpg
 image_wide: True
 ---
