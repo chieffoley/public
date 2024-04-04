@@ -18,3 +18,5 @@ tags: [pic-info]
             keywords:  
 ```
 {: file="camera nerd stats" }
+
+[back to post]({% link _posts/2023-10-19-beach-birds.md %}#pic-1)

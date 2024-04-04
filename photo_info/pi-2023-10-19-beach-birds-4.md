@@ -19,4 +19,4 @@ tags: [pic-info]
 ```
 {: file="camera nerd stats" }
 
-[back to photo page]({% link _posts/2023-10-19-beach-birds.md %}#pic-4)
+[back to post]({% link _posts/2023-10-19-beach-birds.md %}#pic-4)
