@@ -30,9 +30,9 @@ panel:
 copyright:
   # Shown at the bottom of the post
   license:
-    template: © 2024 by Stephen Foley, licensed under <a href='http://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1'>CC BY-NC-ND 4.0</a>
+    template: © 2024 by Stephen Foley, licensed under <a href='https://creativecommons.org/licenses/by-nc-nd/4.0/'>CC BY-NC-ND 4.0</a>
     name: CC BY-NC-ND 4.0
-    link: http://creativecommons.org/licenses/by-nc-nd/4.0/
+    link: https://creativecommons.org/licenses/by-nc-nd/4.0/
 
   # Displayed in the footer
   brief: Some rights reserved.
