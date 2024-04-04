@@ -12,12 +12,11 @@ _A Ruddy Turnstone &nbsp; &nbsp; <a href='{% link photo_info/pi-2023-10-19-beach
 ![2](/images/2023-10-19-beach-birds/beach-birds-2.jpg)
 _Mmm, breakfast &nbsp; ([photo info]({% link photo_info/pi-2023-10-19-beach-birds-2.md %}))_
 
-<a name="pic-3"></a>
 
 ![3](/images/2023-10-19-beach-birds/beach-birds-3.jpg)
 _<a href='{% link photo_info/pi-2023-10-19-beach-birds-3.md %}'><i class="fa fa-info-circle" style="font-size: 0.73em;"></i></a>_
 
-<a name="pic-4"></a>
+<a href='javascript:void(0);' name="pic-4"></a>
 
 ![4](/images/2023-10-19-beach-birds/beach-birds-4.jpg)
 _([photo info]({% link photo_info/pi-2023-10-19-beach-birds-4.md %}))_
