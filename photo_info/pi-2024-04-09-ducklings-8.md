@@ -1,17 +1,17 @@
 ---
-title: ducklings-1.jpg
+title: ducklings-8.jpg
 categories: [pic-info]
 tags: [pic-info]
 ---
 
 ```text
-          Date Taken:  2024:04:09 09:54:38
+          Date Taken:  2024:04:09 10:01:46
         Camera Model:  Canon EOS R5
           Lens Model:  150-600mm F5-6.3 DG OS HSM | Contemporary 015
               F-Stop:  6.3
        Exposure Time:  1/1000
                  ISO:  320
-        Focal Length:  600.0
+        Focal Length:  260.0
     Exposure Program:  Manual
         X Resolution:  600.0
         Y Resolution:  600.0
@@ -19,4 +19,4 @@ tags: [pic-info]
 ```
 {: file="camera nerd stats" }
 
-[back to post]({% link _posts/2024-04-09-more-ducklings.md %}#pic-1)
+[back to post]({% link _posts/2024-04-09-more-ducklings.md %}#pic-8)

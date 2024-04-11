@@ -5,11 +5,11 @@ tags: [pic-info]
 ---
 
 ```text
-          Date Taken:  2024:04:09 09:53:20
+          Date Taken:  2024:04:09 09:57:40
         Camera Model:  Canon EOS R5
           Lens Model:  150-600mm F5-6.3 DG OS HSM | Contemporary 015
               F-Stop:  6.3
-       Exposure Time:  1/1250
+       Exposure Time:  1/1000
                  ISO:  320
         Focal Length:  600.0
     Exposure Program:  Manual
@@ -19,4 +19,4 @@ tags: [pic-info]
 ```
 {: file="camera nerd stats" }
 
-[back to post]({% link _posts/2024-04-09-duckies.md %}#pic-2)
+[back to post]({% link _posts/2024-04-09-more-ducklings.md %}#pic-2)

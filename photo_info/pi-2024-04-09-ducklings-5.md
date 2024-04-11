@@ -5,7 +5,7 @@ tags: [pic-info]
 ---
 
 ```text
-          Date Taken:  2024:04:09 09:54:32
+          Date Taken:  2024:04:09 10:00:18
         Camera Model:  Canon EOS R5
           Lens Model:  150-600mm F5-6.3 DG OS HSM | Contemporary 015
               F-Stop:  6.3
@@ -19,4 +19,4 @@ tags: [pic-info]
 ```
 {: file="camera nerd stats" }
 
-[back to post]({% link _posts/2024-04-09-duckies.md %}#pic-5)
+[back to post]({% link _posts/2024-04-09-more-ducklings.md %}#pic-5)
