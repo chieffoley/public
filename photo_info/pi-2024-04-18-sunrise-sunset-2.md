@@ -1,0 +1,22 @@
+---
+title: sunrise-sunset-2.jpg
+categories: [pic-info]
+tags: [pic-info]
+---
+
+```text
+          Date Taken:  2024:04:18 07:20:48
+        Camera Model:  Canon EOS R5
+          Lens Model:  150-600mm F5-6.3 DG OS HSM | Contemporary 015
+              F-Stop:  6.3
+       Exposure Time:  1/2000
+                 ISO:  160
+        Focal Length:  150.0
+    Exposure Program:  Manual
+        X Resolution:  240.0
+        Y Resolution:  240.0
+            keywords:  
+```
+{: file="camera nerd stats" }
+
+[back to post]({% link _posts/2024-04-18-sunrise-and-sunset-at-sebastian-inlet.md %}#pic-2)
