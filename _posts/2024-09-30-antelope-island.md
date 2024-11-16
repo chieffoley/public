@@ -80,22 +80,22 @@ _&nbsp; <a href='{% link photo_info/pi-2024-09-30-antelope-island-0013.md %}'><i
 <a href='javascript:void(0);' name='pic-0014'></a>
 
 ![0014](/images/2024-09-30-antelope-island/antelope-island-0014.jpg)
-_&nbsp; <a href='{% link photo_info/pi-2024-09-30-antelope-island-0014.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
+_That's our rented Jeep, thanks for the free upgrade Avis.&nbsp; <a href='{% link photo_info/pi-2024-09-30-antelope-island-0014.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
 <a href='javascript:void(0);' name='pic-0015'></a>
 
 ![0015](/images/2024-09-30-antelope-island/antelope-island-0015.jpg)
-_That's our rented Jeep, thanks for the free upgrade Avis.&nbsp; <a href='{% link photo_info/pi-2024-09-30-antelope-island-0015.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
+_&nbsp; <a href='{% link photo_info/pi-2024-09-30-antelope-island-0015.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
 <a href='javascript:void(0);' name='pic-0016'></a>
 
 ![0016](/images/2024-09-30-antelope-island/antelope-island-0016.jpg)
-_&nbsp; <a href='{% link photo_info/pi-2024-09-30-antelope-island-0016.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
+_Finally, on the drive back, almost to the entrance, I spotted an antelope.&nbsp; <a href='{% link photo_info/pi-2024-09-30-antelope-island-0016.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
 <a href='javascript:void(0);' name='pic-0017'></a>
 
 ![0017](/images/2024-09-30-antelope-island/antelope-island-0017.jpg)
-_Finally, on the drive back, almost to the entrance, I spotted an antelope.&nbsp; <a href='{% link photo_info/pi-2024-09-30-antelope-island-0017.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
+_&nbsp; <a href='{% link photo_info/pi-2024-09-30-antelope-island-0017.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
 <a href='javascript:void(0);' name='pic-0018'></a>
 
