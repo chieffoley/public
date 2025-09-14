@@ -29,7 +29,9 @@ _&nbsp; <a href='{% link photo_info/pi-2025-08-24-switzerland-day-8-27.md %}'><i
 _&nbsp; <a href='{% link photo_info/pi-2025-08-24-switzerland-day-8-29.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
 <a href='javascript:void(0);' name='pic-30'></a>
+![30](/images/2025-08-24-switzerland-day-8/switzerland-day-8-30.jpg)
 
+<a href='javascript:void(0);' name='pic-31'></a>
 ![31](/images/2025-08-24-switzerland-day-8/switzerland-day-8-31.jpg)
 _&nbsp; <a href='{% link photo_info/pi-2025-08-24-switzerland-day-8-31.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
