@@ -185,7 +185,7 @@ And below is a picture of a plane.
 ![34](/images/2025-08-19-switzerland-day-3/switzerland-day-3-34.jpg)
 _&nbsp; <a href='{% link photo_info/pi-2025-08-19-switzerland-day-3-34.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
-I'll zoom in for you and highlight it.
+I'll zoom in for you and highlight it.  It is right in the middle of the frame.
 
 <a href='javascript:void(0);' name='pic-35'></a>
 ![35](/images/2025-08-19-switzerland-day-3/switzerland-day-3-35.jpg)
