@@ -2,6 +2,7 @@
 title: Switzerland Day 2
 categories: [travel-blog, photography]
 tags: [travel, switzerland, switzerland-2025, photography]
+image: /images/2025-08-18-switzerland-day-2/preview-image.jpg
 image_wide: True
 ---
 
