@@ -1,6 +1,6 @@
 ---
 title: Switzerland Day 4
-categories: [travel-blog, photography]
+categories: [travel-blog]
 tags: [travel, switzerland, switzerland-2025, photography]
 image: /images/2025-08-20-switzerland-day-4/preview-image.jpg
 ---

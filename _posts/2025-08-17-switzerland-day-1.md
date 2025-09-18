@@ -1,6 +1,6 @@
 ---
 title: Switzerland Day 1
-categories: [travel-blog, photography]
+categories: [travel-blog]
 tags: [travel, switzerland, switzerland-2025, photography]
 image: /images/2025-08-17-switzerland-day-1/preview-image.jpg
 ---

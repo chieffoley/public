@@ -1,0 +1,21 @@
+---
+title: switzerland-day-6-5.jpg
+categories: [pic-info]
+tags: [pic-info]
+---
+
+```text
+          Date Taken:  2025:08:22 12:30:01
+        Camera Model:  iPhone X
+          Lens Model:  iPhone X front camera 2.87mm f/2.2
+              F-Stop:  2.2
+       Exposure Time:  1/182
+                 ISO:  20
+        Focal Length:  2.87
+    Exposure Program:  Normal program
+          Dimensions:  2046 x 1538
+            keywords:  
+```
+{: file="camera nerd stats" }
+
+[back to post]({% link _posts/2025-08-22-switzerland-day-6.md %}#pic-5)

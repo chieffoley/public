@@ -1,6 +1,6 @@
 ---
 title: Switzerland Day 5
-categories: [travel-blog, photography]
+categories: [travel-blog]
 tags: [travel, switzerland, switzerland-2025, photography]
 image: /images/2025-08-21-switzerland-day-5/preview-image.jpg
 image_tall: True

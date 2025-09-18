@@ -1,6 +1,6 @@
 ---
 title: Switzerland Day 3
-categories: [travel-blog, photography]
+categories: [travel-blog]
 tags: [travel, switzerland, switzerland-2025, photography]
 image: /images/2025-08-19-switzerland-day-3/preview-image.jpg
 image_tall: True

@@ -1,6 +1,6 @@
 ---
 title: Switzerland Day 8
-categories: [travel-blog, photography]
+categories: [travel-blog]
 tags: [travel, switzerland, switzerland-2025, photography]
 image: /images/2025-08-24-switzerland-day-8/preview-image.jpg
 ---
