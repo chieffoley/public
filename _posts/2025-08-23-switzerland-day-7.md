@@ -5,7 +5,7 @@ tags: [travel, switzerland, switzerland-2025, photography]
 image: /images/2025-08-23-switzerland-day-7/preview-image.jpg
 ---
 
-Day 7 (Saturday) - Uncle Robert
+# Day 7 (Saturday) - Uncle Robert
 
 Today is check out day for our Wengen apartment. We packed up in the morning and left at about 10 am headed for Zurich arriving at our hotel at about 2 pm, checked in, grabbed a bite to eat, went back to the hotel, freshened up, and then headed to Uncle Robert's house.
 
@@ -37,9 +37,6 @@ As the evening drew to a close and we said our goodbyes, I couldn't help but ref
 <a href='javascript:void(0);' name='pic-4'></a>
 ![4](/images/2025-08-23-switzerland-day-7/switzerland-day-7-4.jpg)
 
-<a href='javascript:void(0);' name='pic-5'></a>
-![5](/images/2025-08-23-switzerland-day-7/switzerland-day-7-5.jpg)
-
 <a href='javascript:void(0);' name='pic-6'></a>
 ![6](/images/2025-08-23-switzerland-day-7/switzerland-day-7-6.jpg)
 
@@ -54,4 +51,7 @@ As the evening drew to a close and we said our goodbyes, I couldn't help but ref
 
 <a href='javascript:void(0);' name='pic-10'></a>
 ![10](/images/2025-08-23-switzerland-day-7/switzerland-day-7-10.jpg)
+
+<a href='javascript:void(0);' name='pic-5'></a>
+![5](/images/2025-08-23-switzerland-day-7/switzerland-day-7-5.jpg)
 
