@@ -51,7 +51,7 @@ The map below shows the train line, however, the final leg to the Jungfrau stati
 ![9](/images/2025-08-22-switzerland-day-6/switzerland-day-6-9.png)
 _&nbsp; <a href='{% link photo_info/pi-2025-08-22-switzerland-day-6-9.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
-Along the way from Kleine Sheidegg station to the tunnel entrance there are some stunning views. Click through the slide show below for a sampling of the scenery.
+Along the way from Kleine Sheidegg station to the tunnel entrance there are some stunning views.
 
 <a href='javascript:void(0);' name='pic-10'></a>
 ![10](/images/2025-08-22-switzerland-day-6/switzerland-day-6-10.jpg)
@@ -196,7 +196,7 @@ As we continued walking, me in front and Kristin directly behind me, Kristin rem
 ![36](/images/2025-08-22-switzerland-day-6/switzerland-day-6-36.jpg)
 _&nbsp; <a href='{% link photo_info/pi-2025-08-22-switzerland-day-6-36.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
-After I snapped the picture, I told Kristin, "that thing looks like its ready to let go any minute", then I fiddled with my camera. Just a few seconds later, while looking at my camera Kristin said, "its letting go right now." Then I heard a loud low rumble and looked up. I don't know much about mountains and snow, but I already had it in my head that the giant snow pack looked precarious, and from what I have heard, a loud rumble is bad news for those that are directly below giant snow packs . and that was us. The rumble continued as the snow fell in the distance. I thought for a moment, and a flash of hikers killed in an avalanche zoomed through my head. It was time to go. Kristin asked what should we do, and I just pointed and said "go, go, go." We started to walk briskly, not too quickly, but quick enough at this altitude. The rumble followed us, still going. The risk of actual avalanche was low, so I didn't think this warranted running or anything like that, but just standing there seemed a little dumb to me, especially not being very knowledgeable about mountains. Maybe an experienced hiker would laugh, but I am okay with being laughed at, I was concerned with being buried in snow. I didn't want to stop to take a photo, but while walking it was easy enough to point my camera in the general direction of the snow pack and snap a couple of pictures.  After all, my camera settings were set up for it already. I took two or three pics and then continued walking. Finally the rumbling stopped.
+After I snapped the picture, I told Kristin, "that thing looks like its ready to let go any minute", then I fiddled with my camera. Just a few seconds later, while looking at my camera Kristin said, "its letting go right now." Then I heard a loud low rumble and looked up. I don't know much about mountains and snow, but I already had it in my head that the giant snow pack looked precarious, and from what I have heard, a loud rumble is bad news for those that are directly below giant snow packs . . . and that was us. The rumble continued as the snow fell in the distance. I thought for a moment, and a flash of hikers killed in an avalanche zoomed through my head. It was time to go. Kristin asked what should we do, and I just pointed and said "go, go, go." We started to walk briskly, not too quickly, but quick enough at this altitude. The rumble followed us, still going. The risk of actual avalanche was low, so I didn't think this warranted running or anything like that, but just standing there seemed a little dumb to me, especially not being very knowledgeable about mountains. Maybe an experienced hiker would laugh, but I am okay with being laughed at, I was concerned with being buried in snow. I didn't want to stop to take a photo, but while walking it was easy enough to point my camera in the general direction of the snow pack and snap a couple of pictures.  After all, my camera settings were set up for it already. I took two or three pics and then continued walking. Finally the rumbling stopped.
 
 The first picture I took (above), before I said the snow looks like it is about to let go was at 12:13:19. The first picture I have of the snow falling (below) was at 12:14:11, a little less than a minute later. The last picture I have of the snow falling was at 12:14:18. I'm guessing that the rumbling lasted about 15-20 seconds. 8-13 seconds sounds about right for me to think about what to do, tell Kristin to go, and then walk 5 or 10 steps before deciding to snap some pics.
 
@@ -320,6 +320,10 @@ _&nbsp; <a href='{% link photo_info/pi-2025-08-22-switzerland-day-6-58.md %}'><i
 ![59](/images/2025-08-22-switzerland-day-6/switzerland-day-6-59.jpg)
 _&nbsp; <a href='{% link photo_info/pi-2025-08-22-switzerland-day-6-59.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
+<a href='javascript:void(0);' name='pic-62'></a>
+![62](/images/2025-08-22-switzerland-day-6/switzerland-day-6-62.jpg)
+_&nbsp; <a href='{% link photo_info/pi-2025-08-22-switzerland-day-6-62.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
+
 After all that hiking Squeakie needed to get some water!
 
 <a href='javascript:void(0);' name='pic-60'></a>
@@ -332,7 +336,4 @@ _&nbsp; <a href='{% link photo_info/pi-2025-08-22-switzerland-day-6-61.md %}'><i
 
 The last mile is always the hardest, and we were beat, but we needed to stop at the coop to pick up some food for dinner on the way back. Luckily the coop is right near our apartment. When we were in the checkout line, some scraggly American walked up behind us in line, oh wait, that's Chris! haha. We got back to the house and Paul and Katheryn arrived a short while later. We all traded stories of the day, ate dinner, then it was one game of Skip-Bo and bed-time for us.
 
-<a href='javascript:void(0);' name='pic-62'></a>
-![62](/images/2025-08-22-switzerland-day-6/switzerland-day-6-62.jpg)
-_&nbsp; <a href='{% link photo_info/pi-2025-08-22-switzerland-day-6-62.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 

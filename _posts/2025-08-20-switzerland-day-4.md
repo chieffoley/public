@@ -7,7 +7,7 @@ image: /images/2025-08-20-switzerland-day-4/preview-image.jpg
 
 Day 4 (Wednesday) - Meet Fritz
 
-Day 4 started with clouds rolling in. The weather was taking a turn for the, slightly, worse, but we were determined to make the best of it. The clouds meant that visiting mountain tops would not be on the agenda today, instead it was time to put on our hiking shoes. Step one was to find an appropriate trail to take. This is where my trip preparation comes in. I had bought a great trail guide, a map, and also printed out some maps I found on the web, and all of that was . sitting right on my dining room table in North Attleboro, DOH!
+Day 4 started with clouds rolling in. The weather was taking a turn for the, slightly, worse, but we were determined to make the best of it. The clouds meant that visiting mountain tops would not be on the agenda today, instead it was time to put on our hiking shoes. Step one was to find an appropriate trail to take. This is where my trip preparation comes in. I had bought a great trail guide, a map, and also printed out some maps I found on the web, and all of that was . . . sitting right on my dining room table in North Attleboro, DOH!
 
 <a href='javascript:void(0);' name='pic-1'></a>
 ![1](/images/2025-08-20-switzerland-day-4/switzerland-day-4-1.jpg)
@@ -179,7 +179,7 @@ _&nbsp; <a href='{% link photo_info/pi-2025-08-20-switzerland-day-4-36.md %}'><i
 ![37](/images/2025-08-20-switzerland-day-4/switzerland-day-4-37.jpg)
 _&nbsp; <a href='{% link photo_info/pi-2025-08-20-switzerland-day-4-37.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
-The water is squeezed through small openings which increases its speed and power to unfathomable levels. The sound is deafening as the water sprays through the opening and crashes into rock, shot through openings in the cave like a canon. Pictures can't do it justice. You need to stand next to it and feel the raw power of nature as it cuts through solid rock over centuries carving out rounded cathedral-like shapes, leaving behind perfect arcs of smooth stone. Don't lean too far over the railings, if you fall in, there will be nothing left of you after you make your way through the world's most powerful natural blender.
+The water is squeezed through small openings which increases its speed and power to unfathomable levels. The sound is deafening as the water sprays through the opening and crashes into rock, shot through openings in the cave like a cannon. Pictures can't do it justice. You need to stand next to it and feel the raw power of nature as it cuts through solid rock over centuries carving out rounded cathedral-like shapes, leaving behind perfect arcs of smooth stone. Don't lean too far over the railings, if you fall in, there will be nothing left of you after you make your way through the world's most powerful natural blender.
 
 <a href='javascript:void(0);' name='pic-38'></a>
 ![38](/images/2025-08-20-switzerland-day-4/switzerland-day-4-38.jpg)
@@ -215,11 +215,11 @@ _&nbsp; Paul, look out!_
 <a href='javascript:void(0);' name='pic-46'></a>
 ![46](/images/2025-08-20-switzerland-day-4/switzerland-day-4-46.jpg)
 
-After we got home, we had our chocolate tasting. Everyone had bought different types of Swiss chocolate and we sampled them all. There was one type in particular, it was called "Minor" and it came in a package that looked like a single kit-kat bar. It had hazelnut and little crunchies. As soon as I bit into it I immediately recalled this chocolate from my childhood. I hadn't remembered it nor thought about it since then, but it took just one taste to trigger long ago locked down memories. Memory is a strange and wondrous critter, its all just sitting somewhere in the mind and who knows what will trigger its release.
-
 <a href='javascript:void(0);' name='pic-47'></a>
 ![47](/images/2025-08-20-switzerland-day-4/switzerland-day-4-47.jpg)
 
 <a href='javascript:void(0);' name='pic-48'></a>
 ![48](/images/2025-08-20-switzerland-day-4/switzerland-day-4-48.jpg)
+
+After we got home, we had our chocolate tasting. Everyone had bought different types of Swiss chocolate and we sampled them all. There was one type in particular, it was called "Minor" and it came in a package that looked like a single kit-kat bar. It had hazelnut and little crunchies. As soon as I bit into it I immediately recalled this chocolate from my childhood. I hadn't remembered it nor thought about it since then, but it took just one taste to trigger long ago locked down memories. Memory is a strange and wondrous critter, its all just sitting somewhere in the mind and who knows what will trigger its release.
 

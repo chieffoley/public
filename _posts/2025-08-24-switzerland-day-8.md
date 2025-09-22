@@ -136,6 +136,8 @@ auf Wiedersehen!
 
 ---
 
+P.S. If you haven't had enough pictures, here are some bonus pics for you!
+
 <a href='javascript:void(0);' name='pic-0'></a>
 
 ![0](/images/2025-08-24-switzerland-day-8/switzerland-day-8-0.jpg)

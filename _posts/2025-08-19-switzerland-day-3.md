@@ -19,9 +19,9 @@ I was told that it can get quite cold on the tops of these mountains, so even th
 
 We set out from Wengen and took the train down to Lauterbrunnen at the valley floor. From there we took a cable car up the other side of the valley to Grütschalp. This was great because I had "ride a cable car" on my list of things to do while in Switzerland, however, the actual experience was not exactly what I had in mind. First, you have to understand that we are smack in the middle of the tourist area of Switzerland. I'm still waiting to find someone that doesn't speak English here. I would say, of all the languages I've heard in this area, German is probably the one I've heard least.
 
-They herd the tourists onto this cable car. The cable car itself is big, and there must be about 75 people packed onto it. You need to take your backpack off so that they can pack everyone in. You just can't wait to get out of the thing. One of the tourists waiting on the platform said, "it looks full, I'll wait for the next one," to which the car operator said "The next one's the same, get in." The tourist replied, "I'll wait until one that it isn't full", and the operator, without missing a beat, saying this as if he has said it a thousand times, responded, "you'll be here until 7, just get in". The tourist finally cooperated.
+They herd the tourists into this cable car. The cable car itself is big, and there must be about 75 people packed into it. You need to take your backpack off so that they can pack everyone in. You just can't wait to get out of the thing. One of the tourists waiting on the platform said, "it looks full, I'll wait for the next one," to which the car operator said "The next one's the same, get in." The tourist replied, "I'll wait until one that it isn't full", and the operator, without missing a beat, saying this as if he has said it a thousand times, responded, "you'll be here until 7, just get in". The tourist finally cooperated.
 
-The cable car arrived at Grütschalp and we poured out it. From Grütschalp we took a train to Murren. This is the same train that we can see travelling across a clearing on the slope opposite our apartment.
+The cable car arrived at Grütschalp and we poured out of it. From Grütschalp we took a train to Murren. From our apartment balcony we can see this same train travelling across a clearing on the slopes on the opposite side of the valley.
 
 Murren is a small village which sits on the edge of a cliff. From our apartment in Wengen, you can see the large hotel next to the Murren train station. It actually looks like some sort of cliff fortress or Swiss castle.
 
@@ -33,7 +33,7 @@ _&nbsp; <a href='{% link photo_info/pi-2025-08-19-switzerland-day-3-1.md %}'><i 
 ![2](/images/2025-08-19-switzerland-day-3/switzerland-day-3-2.jpg)
 _&nbsp; <a href='{% link photo_info/pi-2025-08-19-switzerland-day-3-2.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
-Murren itself is a sort of Disney-fied version of a Swiss village. We had to walk through the town for about 15 minutes to get from the train station to the cable car, and every building looks like a classic Swiss chalet, complete with zillions of flowers.
+Murren itself is a sort of Disneyfied version of a Swiss village. We had to walk through the town for about 15 minutes to get from the train station to the cable car, and every building looks like a classic Swiss chalet, complete with zillions of flowers.
 
 <a href='javascript:void(0);' name='pic-3'></a>
 ![3](/images/2025-08-19-switzerland-day-3/switzerland-day-3-3.jpg)
@@ -113,7 +113,7 @@ _&nbsp; <a href='{% link photo_info/pi-2025-08-19-switzerland-day-3-18.md %}'><i
 ![19](/images/2025-08-19-switzerland-day-3/switzerland-day-3-19.jpg)
 _&nbsp; <a href='{% link photo_info/pi-2025-08-19-switzerland-day-3-19.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
-After taking in the views, it was time for some adventure, so Chris and I ventured out of the baby proof area and into the danger zone. Keep in mind, this is Switzerland, so when they give you a warning, you know its for real.
+After taking in the views, it was time for some adventure, so Chris and I ventured out of the baby proof area and into the danger zone. Keep in mind, this is Switzerland, so when they give you a warning, you know it is for real.
 
 <a href='javascript:void(0);' name='pic-20'></a>
 ![20](/images/2025-08-19-switzerland-day-3/switzerland-day-3-20.jpg)
@@ -167,13 +167,13 @@ In the photo below, you can sort of see where the trail takes a sharp left turn 
 ![31](/images/2025-08-19-switzerland-day-3/switzerland-day-3-31.jpg)
 _&nbsp; <a href='{% link photo_info/pi-2025-08-19-switzerland-day-3-31.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
-In the photo below, you can sort of see where the trail takes a sharp left turn and heads down.
+If you were to continue down there, you would walk along the ridges like the man in the next photo is doing.  He might be difficult to see, so I'll give you a zoomed-in photo below it.
 
 <a href='javascript:void(0);' name='pic-32'></a>
 ![32](/images/2025-08-19-switzerland-day-3/switzerland-day-3-32.jpg)
 _&nbsp; <a href='{% link photo_info/pi-2025-08-19-switzerland-day-3-32.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
-Okay, let me highlight him for you. Here is a zoomed in picture below.
+Okay, let me highlight him for you. Here is the zoomed-in picture below.
 
 <a href='javascript:void(0);' name='pic-33'></a>
 ![33](/images/2025-08-19-switzerland-day-3/switzerland-day-3-33.jpg)
@@ -267,7 +267,9 @@ On the way back from the thrill walk, I noticed remnants of what I'm guessing wa
 ![51](/images/2025-08-19-switzerland-day-3/switzerland-day-3-51.jpg)
 _&nbsp; <a href='{% link photo_info/pi-2025-08-19-switzerland-day-3-51.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
-On the way back from the thrill walk, I noticed remnants of what I'm guessing was the old thrill walk - a cable strewn across the mountain side that you could hold onto while you walked on the edge. I can't confirm this but what else is that cable for?
+We descended back to Murren, walked across town with Kristin taking pictures of everything, and then to Lauterbrunnen.  From there we decided to take a train to Interlaken Ost and see if we could take a boat ride, but alas, we were too late for the boats.
+
+The water sure has a strange color around here.
 
 <a href='javascript:void(0);' name='pic-52'></a>
 ![52](/images/2025-08-19-switzerland-day-3/switzerland-day-3-52.jpg)

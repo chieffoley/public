@@ -27,14 +27,15 @@ We rolled into Interlaken Ost and from there we caught the connecting train to L
 ![3](/images/2025-08-18-switzerland-day-2/3.jpg)
 _&nbsp; The cog railway_
 
-We arrived in Wengen right about noon time and could hear the church bells ringing. We dropped our luggage off at the real estate office while we waited for check-in time, and grabbed some lunch. We were in awe of the spectacular views, the mountains, the classic Swiss buildings . . . all of it.
+We arrived in Wengen right about noon time and could hear the church bells ringing. We dropped our luggage off at the Air-BnB local office while we waited for check-in time, and grabbed some lunch. We were in awe of the spectacular views, the mountains, the classic Swiss buildings . . . all of it.
 
 Before we got lunch, Chris decided to do some exploring and walked right past this sign going to the condemned building on the other side. I don't know what any of that means, but I'm pretty sure you're not supposed go past this, lol.
+
 <a href='javascript:void(0);' name='pic-24'></a>
 ![24](/images/2025-08-18-switzerland-day-2/24.jpg)
 _&nbsp; <a href='{% link photo_info/pi-2025-08-18-24.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
-After lunch it was time to check in. Of course we had a little trouble finding our place, as it is not on a road. After going under the train tracks underpass, you have to take right down a large set of irregular stairs down the hillside. I don't have a good picture of the stairs, but here is the start of them:
+After lunch it was time to check in. Of course we had a little trouble finding our place, as it is not on a road. After going under the train tracks underpass, you have to take a right down a large set of irregular stairs down the hillside. I don't have a good picture of the stairs, but here is the start of them:
 
 <a href='javascript:void(0);' name='pic-4'></a>
 ![4](/images/2025-08-18-switzerland-day-2/4.jpg)
@@ -62,7 +63,7 @@ Here are some pictures of our place:
 
 We hit the local Coop grocery store to stock up on supplies.
 
-We sat on the balcony, enjoying the views and enjoying not being on a plane or train or lugging suitcases around.
+Then, we sat on the balcony, enjoying the views and enjoying not being on a plane or train or lugging suitcases around.
 
 I took a lot of pictures of the scenery:
 
@@ -100,8 +101,6 @@ _&nbsp; <a href='{% link photo_info/pi-2025-08-18-17.md %}'><i class='fa fa-info
 ![18](/images/2025-08-18-switzerland-day-2/18.jpg)
 _&nbsp; A large neighborhood cat <a href='{% link photo_info/pi-2025-08-18-18.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
-No one slept much on the plane, so we were all tired, but did our best to stay awake until a reasonable hour. I was the first to go down, falling asleep briefly in a comfy chair on the balcony and then calling it a night.
-
 <a href='javascript:void(0);' name='pic-19'></a>
 ![19](/images/2025-08-18-switzerland-day-2/19.jpg)
 _&nbsp; <a href='{% link photo_info/pi-2025-08-18-19.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
@@ -121,4 +120,6 @@ _&nbsp; <a href='{% link photo_info/pi-2025-08-18-22.md %}'><i class='fa fa-info
 <a href='javascript:void(0);' name='pic-23'></a>
 ![23](/images/2025-08-18-switzerland-day-2/23.jpg)
 _&nbsp; <a href='{% link photo_info/pi-2025-08-18-23.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
+
+No one slept much on the plane, so we were all tired, but did our best to stay awake until a reasonable hour. I was the first to go down, falling asleep briefly in a comfy chair on the balcony and then calling it a night.
 
