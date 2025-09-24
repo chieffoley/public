@@ -7,7 +7,7 @@ image: /images/2025-08-23-switzerland-day-7/preview-image.jpg
 
 # Day 7 (Saturday) - Uncle Robert
 
-Today is check out day for our Wengen apartment. We packed up in the morning and left at about 10 am headed for Zurich arriving at our hotel at about 2 pm, checked in, grabbed a bite to eat, went back to the hotel, freshened up, and then headed to Uncle Robert's house.
+Today is check out day for our Wengen condo. We packed up in the morning and left at about 10 am headed for Zurich arriving at our hotel at about 2 pm, checked in, grabbed a bite to eat, went back to the hotel, freshened up, and then headed to Uncle Robert's house.
 
 We took the train from Zurich main station to Richterswil, then a bus that dropped us at the corner of Schyzerstrasse and Bacherstrasse. At that point my spidey senses started tingling. I looked around and recognized the woods we used to play in when we visited here 45 years ago. It was a deep wooded gully that ran downhill towards the lake. Brian would always run around on those slopes like a madman proclaiming that his name was Moss - "Master of the Slopes". Brian always has a way of making things fun, it is a gift really.
 

@@ -10,7 +10,7 @@ image_wide: True
 
 Upon arrival in Zurich, it took us some time to figure out where to buy tickets for the train, but we eventually found someone to help us purchase tickets that would get us to Bern. We found the right platform and boarded the train, which was a double decker. We had a bunch of luggage, Kristin and I having the most, with two suitcases each, and that made it a little tough to get up to the second floor of the train, but we managed.
 
-When we got to Bern it took some time to get our luggage off the train and figure out how to get to the next train, which we missed by just a minute or two. We were slowly figuring out the system here. You can move from one train to the next if you know where your going and don't dilly-dally. The trains are timed so when you pull into the station you can walk right onto the connecting train, but when you have a bunch of luggage and you don't know what you're doing, you might miss the next train, which is what happened to us. So, we waited the half hour or so to catch the next train to Interlaken Ost. Luckily we were able to stay on the first floor off that train, so no more hauling luggage up stairs.
+When we got to Bern it took some time to get our luggage off the train and figure out how to get to the next train, which we missed by just a minute or two. We were slowly figuring out the system here. You can move from one train to the next if you know where your going and don't dilly-dally. The trains are timed so when you pull into the station you can walk right onto the connecting train, but when you have a bunch of luggage and you don't know what you're doing, you might miss the next train, which is what happened to us. So, we waited the half hour or so to catch the next train to Interlaken Ost. Luckily we were able to stay on the first floor of that train, so no more hauling luggage up stairs.
 
 <a href='javascript:void(0);' name='pic-1'></a>
 ![1](/images/2025-08-18-switzerland-day-2/1.jpg)
@@ -73,7 +73,7 @@ _&nbsp; The view from our balcony (looking straight out toward the south) <a hre
 
 <a href='javascript:void(0);' name='pic-12'></a>
 ![12](/images/2025-08-18-switzerland-day-2/12.jpg)
-_&nbsp; I think this map is from the top of the hill just above our apartment. <a href='{% link photo_info/pi-2025-08-18-12.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
+_&nbsp; I think this map is from the top of the hill just above our condo. <a href='{% link photo_info/pi-2025-08-18-12.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
 <a href='javascript:void(0);' name='pic-13'></a>
 ![13](/images/2025-08-18-switzerland-day-2/13.jpg)

@@ -12,7 +12,7 @@ Day 4 started with clouds rolling in. The weather was taking a turn for the, sli
 <a href='javascript:void(0);' name='pic-1'></a>
 ![1](/images/2025-08-20-switzerland-day-4/switzerland-day-4-1.jpg)
 
-Fortunately, the rental house had some trail maps, and so we picked a trail from there. We were headed to Staubachbänkli, taking the lower blue trail in the map below. The red arrow points to our destination.
+Fortunately, the condo had some trail maps, and so we picked a trail from there. We were headed to Staubachbänkli, taking the lower blue trail in the map below. The red arrow points to our destination.
 
 <a href='javascript:void(0);' name='pic-2'></a>
 ![2](/images/2025-08-20-switzerland-day-4/switzerland-day-4-2.jpg)
@@ -151,9 +151,9 @@ _&nbsp; <a href='{% link photo_info/pi-2025-08-20-switzerland-day-4-31.md %}'><i
 ![32](/images/2025-08-20-switzerland-day-4/switzerland-day-4-32.jpg)
 _&nbsp; <a href='{% link photo_info/pi-2025-08-20-switzerland-day-4-32.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
-After the hike to Staubachbänkli we decided we should take this opportunity to see some waterfalls, so we set out to see the Trummelbach Falls, which we thought was a giant 1000 foot waterfall that we could see from our house, but that was a slight mistake. Trummelbach was actually the waterfall that runs through the mountain, carving out a path through the solid rock via that incredible force of nature called erosion.
+After the hike to Staubachbänkli we decided we should take this opportunity to see some waterfalls, so we set out to see the Trummelbach Falls, which we thought was a giant 1000 foot waterfall that we could see from our condo, but that was a slight mistake. Trummelbach was actually the waterfall that runs through the mountain, carving out a path through the solid rock via that incredible force of nature called erosion.
 
-To get there, Lori and Kristin took the train, and Paul, Chris, Katheryn, and I hiked the trail. There is a saying that goes "its all downhill from here", and I'm going to tell you that if someone says that to you be warned that you may be in for a world of hurt. The trail from Wengen to Lauterbrunnen is all downhill, but it is no walk in the park, nor is it a picnic or day at the beach. It is steep so that with every step you need to stop yourself from just tumbling forward down the hill. Its just switch-backs all the way down, and by the end, all of our legs were rubber, our thighs were burning, and my knees were definitely worse for the wear. But this is Switzerland, and in Switzerland you walk. The locals around here (still trying to find where the locals are) must have legs like tree trunks.
+To get there, Lori and Kristin took the train, and Paul, Chris, Katheryn, and I hiked the trail. There is a saying that goes "it's all downhill from here", and I'm going to tell you that if someone says that to you be warned that you may be in for a world of hurt. The trail from Wengen to Lauterbrunnen is all downhill, but it is no walk in the park, nor is it a picnic or day at the beach. It is steep so that with every step you need to stop yourself from just tumbling forward down the hill. it is just switch-backs all the way down, and by the end, all of our legs were rubber, our thighs were burning, and my knees were definitely worse for the wear. But this is Switzerland, and in Switzerland you walk. The locals around here (still trying to find where the locals are) must have legs like tree trunks.
 
 At the end of the trail, just outside the train station is a bridge over the Lochbröcke river. It was the final leg of the hike, and the only flat part of the whole thing. I now understand why the train to Wengen has cogs.
 
@@ -161,7 +161,7 @@ At the end of the trail, just outside the train station is a bridge over the Loc
 ![33](/images/2025-08-20-switzerland-day-4/switzerland-day-4-33.jpg)
 _&nbsp; <a href='{% link photo_info/pi-2025-08-20-switzerland-day-4-33.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
-At Trummelbach, you first take a lift up 300 feet. From there you walk up through man-made caves carved out of solid rock. Along the way you can see several waterfalls, as the water makes its way down from the mountain and through this crazy carved out rock.
+At Trummelbach, you first take a lift up 300 feet. From there you walk up through man-made caves carved out of solid rock. Along the way you can see several waterfalls, as the water makes it's way down from the mountain and through this crazy carved out rock.
 
 <a href='javascript:void(0);' name='pic-34'></a>
 ![34](/images/2025-08-20-switzerland-day-4/switzerland-day-4-34.jpg)
@@ -221,5 +221,5 @@ _&nbsp; Paul, look out!_
 <a href='javascript:void(0);' name='pic-48'></a>
 ![48](/images/2025-08-20-switzerland-day-4/switzerland-day-4-48.jpg)
 
-After we got home, we had our chocolate tasting. Everyone had bought different types of Swiss chocolate and we sampled them all. There was one type in particular, it was called "Minor" and it came in a package that looked like a single kit-kat bar. It had hazelnut and little crunchies. As soon as I bit into it I immediately recalled this chocolate from my childhood. I hadn't remembered it nor thought about it since then, but it took just one taste to trigger long ago locked down memories. Memory is a strange and wondrous critter, its all just sitting somewhere in the mind and who knows what will trigger its release.
+After we got home, we had our chocolate tasting. Everyone had bought different types of Swiss chocolate and we sampled them all. There was one type in particular, it was called "Minor" and it came in a package that looked like a single kit-kat bar. It had hazelnut and little crunchies. As soon as I bit into it I immediately recalled this chocolate from my childhood. I hadn't remembered it nor thought about it since then, but it took just one taste to trigger long ago locked down memories. Memory is a strange and wondrous critter, it is all just sitting somewhere in the mind and who knows what will trigger its release.
 

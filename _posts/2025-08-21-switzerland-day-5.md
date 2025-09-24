@@ -10,9 +10,9 @@ image_tall: True
 
 Until now, we had been blessed with good weather. Granted, Wednesday saw some rain, but it held off until late afternoon, giving us plenty of time to enjoy the outdoors without getting soaked. Thursday was different, it was raining off and on all day.
 
-The morning was slow and lazy, I flipped through the brochures on the coffee table, copied some pictures off my camera, and just sort of sloughed around, tired from the first four dizzying days of the trip. Kristin got caught up on some work. I was in my own little world so I'm not sure what the others were doing, but I think it was much the same. I know Paul was finding out that this apartment is home to the world's slowest washing machine/dryer combo. Finally, we all sort of came out of our stupor.
+The morning was slow and lazy, I flipped through the brochures on the coffee table, downloaded some pictures from my camera, and just sort of sloughed around, tired from the first four dizzying days of the trip. Kristin got caught up on some work. I was in my own little world so I'm not sure what the others were doing, but I think it was much the same. I know Paul was finding out that this condo is home to the world's slowest washing machine/dryer combo. Finally, we all sort of came out of our stupor.
 
-When we decided to actually do something, it was Chris, Paul, and Katheryn that went over to the local mini-golf course, while Kristin and I went for a walk around town, and Lori continued to relax at the apartment. Kristin and I snapped some pics from around town.
+When we decided to actually do something, it was Chris, Paul, and Katheryn that went over to the local mini-golf course, while Kristin and I went for a walk around town, and Lori continued to relax at the condo. Kristin and I snapped some pics from around town.
 
 <a href='javascript:void(0);' name='pic-1'></a>
 ![1](/images/2025-08-21-switzerland-day-5/1.jpg)

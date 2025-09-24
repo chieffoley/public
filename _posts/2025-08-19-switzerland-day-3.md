@@ -21,9 +21,9 @@ We set out from Wengen and took the train down to Lauterbrunnen at the valley fl
 
 They herd the tourists into this cable car. The cable car itself is big, and there must be about 75 people packed into it. You need to take your backpack off so that they can pack everyone in. You just can't wait to get out of the thing. One of the tourists waiting on the platform said, "it looks full, I'll wait for the next one," to which the car operator said "The next one's the same, get in." The tourist replied, "I'll wait until one that it isn't full", and the operator, without missing a beat, saying this as if he has said it a thousand times, responded, "you'll be here until 7, just get in". The tourist finally cooperated.
 
-The cable car arrived at Grütschalp and we poured out of it. From Grütschalp we took a train to Murren. From our apartment balcony we can see this same train travelling across a clearing on the slopes on the opposite side of the valley.
+The cable car arrived at Grütschalp and we poured out of it. From Grütschalp we took a train to Murren. From our condo balcony we can see this same train travelling across a clearing on the slopes on the opposite side of the valley.
 
-Murren is a small village which sits on the edge of a cliff. From our apartment in Wengen, you can see the large hotel next to the Murren train station. It actually looks like some sort of cliff fortress or Swiss castle.
+Murren is a small village which sits on the edge of a cliff. From our condo in Wengen, you can see the large hotel next to the Murren train station. It actually looks like some sort of cliff fortress or Swiss castle.
 
 <a href='javascript:void(0);' name='pic-1'></a>
 ![1](/images/2025-08-19-switzerland-day-3/switzerland-day-3-1.jpg)
@@ -69,9 +69,9 @@ We finally arrived at Schilthorn, and it was worth the trip. We walked out onto 
 
 <a href='javascript:void(0);' name='pic-10'></a>
 ![10](/images/2025-08-19-switzerland-day-3/switzerland-day-3-10.jpg)
-_&nbsp; <a href='{% link photo_info/pi-2025-08-19-switzerland-day-3-10.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
+_&nbsp; Mont Blanc is in Italy about 75 miles southwest of Schilthorn, but still visible. <a href='{% link photo_info/pi-2025-08-19-switzerland-day-3-10.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
-Mont Blanc is in Italy about 75 miles southwest of Schilthorn, but still visible.
+
 
 <a href='javascript:void(0);' name='pic-11'></a>
 ![11](/images/2025-08-19-switzerland-day-3/switzerland-day-3-11.jpg)
@@ -88,8 +88,6 @@ _&nbsp; <a href='{% link photo_info/pi-2025-08-19-switzerland-day-3-13.md %}'><i
 <a href='javascript:void(0);' name='pic-14'></a>
 ![14](/images/2025-08-19-switzerland-day-3/switzerland-day-3-14.jpg)
 _&nbsp; <a href='{% link photo_info/pi-2025-08-19-switzerland-day-3-14.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
-
-Mont Blanc is in Italy about 75 miles southwest of Schilthorn, but still visible.
 
 <a href='javascript:void(0);' name='pic-15'></a>
 ![15](/images/2025-08-19-switzerland-day-3/switzerland-day-3-15.jpg)
@@ -191,7 +189,7 @@ I'll zoom in for you and highlight it.  It is right in the middle of the frame.
 ![35](/images/2025-08-19-switzerland-day-3/switzerland-day-3-35.jpg)
 _&nbsp; <a href='{% link photo_info/pi-2025-08-19-switzerland-day-3-35.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
-Yeah, this place is big, real big, and its impossible to understand the enormity of it from a photograph. It is truly awesome.
+Yeah, this place is big, real big, and it is impossible to understand the enormity of it from a photograph. It is truly awesome.
 
 We ate lunch at the restaurant at the peak, best salad ever, and then headed down, taking a cable car to Birg. We stopped there to do the thrill walk, where you walk along the edge of the mountain on a mesh grate.
 
@@ -275,7 +273,7 @@ The water sure has a strange color around here.
 ![52](/images/2025-08-19-switzerland-day-3/switzerland-day-3-52.jpg)
 _&nbsp; <a href='{% link photo_info/pi-2025-08-19-switzerland-day-3-52.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
-It was a long day, and we finally made it back to the house where we played some Skip-Bo, the new official game of Switzerland trips, and went to bed.
+It was a long day, and we finally made it back to the condo where we played some Skip-Bo, the new official game of Switzerland trips, and went to bed.
 
 <a href='javascript:void(0);' name='pic-53'></a>
 ![53](/images/2025-08-19-switzerland-day-3/switzerland-day-3-53.jpg)
