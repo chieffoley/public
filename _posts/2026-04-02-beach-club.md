@@ -33,5 +33,5 @@ _Bidding farewell to Beach Club &nbsp; <a href='{% link photo_info/pi-2026-04-02
 
 <a href='javascript:void(0);' name='pic-0006'></a>
 ![0006](/images/2026-04-02-beach-club/beac-club-0006.jpg)
-_&nbsp; <a href='{% link photo_info/pi-2026-04-02-beac-club-0006.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
+_Random picture of the moon &nbsp; <a href='{% link photo_info/pi-2026-04-02-beac-club-0006.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
