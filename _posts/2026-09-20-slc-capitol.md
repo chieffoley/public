@@ -5,7 +5,7 @@ tags: [slc-2026, utah, travel, photography]
 image: /images/2026-09-20-slc-capitol/preview-image.jpg
 ---
 
-Kristin and I travelled to Salt Lake City to visit Lucas.  While there we made a trip to the capitol building in the evening.  I highly recommend visiting the capital building, it is an imposing piece of architecture built from granite.  During the day the stone absorbs the heat from the sun, and you can feel that heat radiating as the sun sets.  You will notice a marked difference from the cool air over the lawn area to the warmth thrown off of the stone.
+Kristin and I travelled to Salt Lake City to visit Lucas.  While there we made a trip to the capitol building in the evening.  I highly recommend visiting the capital building, it is an imposing piece of architecture built from zillions of tons of solid granite.  During the day the stone absorbs the heat from the sun, and you can feel that heat radiating as the sun sets.  You will notice a marked difference between the cool air over the lawn area and the warmth thrown off of the stone.
 
 This is a perfect place to go, hang out on the lush lawn, and read a book or have a picnic.  It is also great for watching the sunset.
 
@@ -17,7 +17,7 @@ _&nbsp; <a href='{% link photo_info/pi-2026-09-20-utah-09-20-0000.md %}'><i clas
 ![0001](/images/2026-09-20-slc-capitol/utah-09-20-0001.jpg)
 _&nbsp; <a href='{% link photo_info/pi-2026-09-20-utah-09-20-0001.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
-The building itself sits on the north end of State Street on Captiol Hill.  Its front door faces due south.  On the west side of the building sit two regal stone lions, Honor and Patience 
+The building itself sits on the north end of State Street on Captiol Hill.  Its front door faces due south.  On the west side of the building sit two regal stone lions, Honor and Patience.
 
 <a href='javascript:void(0);' name='pic-0002'></a>
 ![0002](/images/2026-09-20-slc-capitol/utah-09-20-0002.jpg)
@@ -25,7 +25,7 @@ _Patience &nbsp; <a href='{% link photo_info/pi-2026-09-20-utah-09-20-0002.md %}
 
 <a href='javascript:void(0);' name='pic-0003'></a>
 ![0003](/images/2026-09-20-slc-capitol/utah-09-20-0003.jpg)
-_This is from the main steps looking west &nbsp; <a href='{% link photo_info/pi-2026-09-20-utah-09-20-0003.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
+_This picture is taken from the main steps looking west &nbsp; <a href='{% link photo_info/pi-2026-09-20-utah-09-20-0003.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
 <a href='javascript:void(0);' name='pic-0005'></a>
 ![0005](/images/2026-09-20-slc-capitol/utah-09-20-0005.jpg)
