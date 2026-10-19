@@ -5,15 +5,49 @@ tags: [landscape, utah, slc-2026, travel, wildlife, photography]
 image: /images/2026-09-29-antelope-island-2026/preview-image.jpg
 ---
 
+
 On Tuesday Kristin and I took an early morning trip to Antelope Island to watch the sun rise over the buffalo.
 
 <a href='javascript:void(0);' name='pic-big'></a>
 ![big](/images/2026-09-29-antelope-island-2026/map-antelope-island-big.png)
 _&nbsp;_
 
+
 It was another beautiful morning in Utah.  Antelope Island is filled with buffalo (or bison as some people call them), and it has a few antelope as well although we did not see any.  We came to here a couple years ago and loved it, so we decided to come back.
 
 Antelope Island sits north of Salt Lake City and is a large island in the Great Salt Lake.  It seems that a lot of schools in the area take field trips here to study the Great Salt Lake, as we have seen the buses full of kids both times we came here.
+
+<a href='javascript:void(0);' name='pic-1000'></a>
+![1000](/images/2026-09-29-antelope-island-2026/utah-2026-09-29-antelope-island-2026-1000.jpg)
+_&nbsp; <a href='{% link photo_info/pi-2026-09-29-utah-2026-09-29-antelope-island-2026-1000.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
+
+As I mentioned before, Antelope Island is home to a plethora of Buffalo and we saw one right next to the welcome sign.  Chief thought it would be a good idea to get a picture touching it.
+
+<a href='javascript:void(0);' name='pic-1003'></a>
+![1003](/images/2026-09-29-antelope-island-2026/utah-2026-09-29-antelope-island-2026-1003.jpg)
+_&nbsp; <a href='{% link photo_info/pi-2026-09-29-utah-2026-09-29-antelope-island-2026-1003.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
+
+<a href='javascript:void(0);' name='pic-1004'></a>
+![1004](/images/2026-09-29-antelope-island-2026/utah-2026-09-29-antelope-island-2026-1004.jpg)
+_&nbsp; <a href='{% link photo_info/pi-2026-09-29-utah-2026-09-29-antelope-island-2026-1004.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
+
+He soon learned that you need to give the buffalo their space
+
+<a href='javascript:void(0);' name='pic-1002'></a>
+![1002](/images/2026-09-29-antelope-island-2026/utah-2026-09-29-antelope-island-2026-1002.jpg)
+_&nbsp; <a href='{% link photo_info/pi-2026-09-29-utah-2026-09-29-antelope-island-2026-1002.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
+
+<a href='javascript:void(0);' name='pic-1005'></a>
+![1005](/images/2026-09-29-antelope-island-2026/utah-2026-09-29-antelope-island-2026-1005.jpg)
+_&nbsp; <a href='{% link photo_info/pi-2026-09-29-utah-2026-09-29-antelope-island-2026-1005.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
+
+After that little tussle, we moved on, driving up the east coast of the island.
+
+Here is a map of the path we travelled on the island.
+
+<a href='javascript:void(0);' name='pic-zoomed'></a>
+![zoomed](/images/2026-09-29-antelope-island-2026/map-antelope-island-zoomed.png)
+  _&nbsp;_
 
 <a href='javascript:void(0);' name='pic-0000'></a>
 ![0000](/images/2026-09-29-antelope-island-2026/utah-2026-09-29-antelope-island-0000.jpg)
@@ -117,17 +151,44 @@ _&nbsp; <a href='{% link photo_info/pi-2026-09-29-utah-2026-09-29-antelope-islan
 
 After our drive down the east coast, we headed to Buffalo Point trail and hiked up to the peak to get a better view of the Great Salt Lake.  The peak is about 600 feet higher than the lake.
 
+<a href='javascript:void(0);' name='pic-1012'></a>
+![1012](/images/2026-09-29-antelope-island-2026/utah-2026-09-29-antelope-island-2026-1012.jpg)
+_&nbsp; <a href='{% link photo_info/pi-2026-09-29-utah-2026-09-29-antelope-island-2026-1012.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
+
 <a href='javascript:void(0);' name='pic-0007'></a>
 ![0007](/images/2026-09-29-antelope-island-2026/utah-2026-09-29-antelope-island-0007.jpg)
 _&nbsp; <a href='{% link photo_info/pi-2026-09-29-utah-2026-09-29-antelope-island-0007.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
+
+<a href='javascript:void(0);' name='pic-1006'></a>
+![1006](/images/2026-09-29-antelope-island-2026/utah-2026-09-29-antelope-island-2026-1006.jpg)
+_&nbsp; <a href='{% link photo_info/pi-2026-09-29-utah-2026-09-29-antelope-island-2026-1006.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
+
+Chief made it to the summit:
+
+<a href='javascript:void(0);' name='pic-1007'></a>
+![1007](/images/2026-09-29-antelope-island-2026/utah-2026-09-29-antelope-island-2026-1007.jpg)
+_&nbsp; <a href='{% link photo_info/pi-2026-09-29-utah-2026-09-29-antelope-island-2026-1007.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
+
+<a href='javascript:void(0);' name='pic-1011'></a>
+![1011](/images/2026-09-29-antelope-island-2026/utah-2026-09-29-antelope-island-2026-1011.jpg)
+_&nbsp; <a href='{% link photo_info/pi-2026-09-29-utah-2026-09-29-antelope-island-2026-1011.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
+
+<a href='javascript:void(0);' name='pic-1008'></a>
+![1008](/images/2026-09-29-antelope-island-2026/utah-2026-09-29-antelope-island-2026-1008.jpg)
+_&nbsp; <a href='{% link photo_info/pi-2026-09-29-utah-2026-09-29-antelope-island-2026-1008.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
+
+<a href='javascript:void(0);' name='pic-1009'></a>
+![1009](/images/2026-09-29-antelope-island-2026/utah-2026-09-29-antelope-island-2026-1009.jpg)
+_&nbsp; <a href='{% link photo_info/pi-2026-09-29-utah-2026-09-29-antelope-island-2026-1009.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
 <a href='javascript:void(0);' name='pic-0023'></a>
 ![0022](/images/2026-09-29-antelope-island-2026/utah-2026-09-29-antelope-island-0023.jpg)
 _&nbsp;_
 
-Here is a map of the path we travelled on the island.
 
-<a href='javascript:void(0);' name='pic-zoomed'></a>
-![zoomed](/images/2026-09-29-antelope-island-2026/map-antelope-island-zoomed.png)
-_&nbsp;_
+They are still trying to tell me that these are bison, but I don't care, they are buffalo to me and always will be, dag-gummit.
+
+<a href='javascript:void(0);' name='pic-1010'></a>
+![1010](/images/2026-09-29-antelope-island-2026/utah-2026-09-29-antelope-island-2026-1010.jpg)
+_&nbsp; <a href='{% link photo_info/pi-2026-09-29-utah-2026-09-29-antelope-island-2026-1010.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
