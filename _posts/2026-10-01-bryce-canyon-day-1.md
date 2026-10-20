@@ -143,3 +143,11 @@ _&nbsp; <a href='{% link photo_info/pi-2026-10-01-utah-2026-10-01-bryce-canyon-d
 _&nbsp; <a href='{% link photo_info/pi-2026-10-01-utah-2026-10-01-bryce-canyon-day-1-0027.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
 While Kristin and Emily stayed at Inspiration Point to check things out further, the rest of us made a quick jaunt up to Paria View to get a look at a different area.
+
+We made our way back to our lodging in Hatch.  After a long day Emily and I spent some time star-gazing.  The milky way was somewhat visible in the night sky and there were plenty of stars to be seen.  Emily tried to map out some constellations while I tried to get a picture with very poor results.
+
+<a href='javascript:void(0);' name='sky'></a>
+![0027](/images/2026-10-01-bryce-canyon-day-1/sky.jpg)
+_&nbsp;_
+
+

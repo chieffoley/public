@@ -19,11 +19,7 @@ _map&nbsp;_
 
 I always say that you need to be careful in Rhode Island because all of their speed limits are 5 MPH lower than Massachusetts.  If a residential neighborhood is 30 MPH in Mass, then it will be 25 MPH in RI.  Well, in Utah, it seems like all the speed limits are _double_ what they would be in Massachusetts (at least outside of the city).  If a road has a limit of 40 MPH in Mass, you can likely do 80 in Utah - its crazy.  They literally have normal roads with one line in each direction and a yellow line that have a speed limit of 70, and that is the norm.  At first it was difficult for me to even do the speed limit, it was so foreign, but you get used to it quickly, and soon I was doing 80 the whole way.  If I ever get pulled over for speeding in Massachusetts, I'm going to tell the cop I just got back from Utah, and if he has any experience with Utah he will completely understand.
 
-TBD - insert 80 mph sign here
-
 The good thing is that the roads out here are super smooth and you can see for about 10 miles in all directions.  I think the only thing you have to worry about is some wildlife jumping out in front of you.  At one point, we did have a family of dear crossing the road, but fortunately I could spot them from a mile away.
-
-TBD insert dear picture here
 
 We took a little detour to visit Fish Lake and see the world's largest living organism along the way.  The organism is Pango a stand of Aspen trees that are all connected or cloned or something like that.  I don't understand all this sciency stuff, but its pretty cool.
 
@@ -38,6 +34,10 @@ _&nbsp; <a href='{% link photo_info/pi-2026-10-01-utah-2026-10-01-the-road-to-br
 <a href='javascript:void(0);' name='pic-0003'></a>
 ![0003](/images/2026-10-01-the-road-to-bryce/utah-2026-10-01-the-road-to-bryce-0003.jpg)
 _We're definitely in the mountains now.&nbsp; <a href='{% link photo_info/pi-2026-10-01-utah-2026-10-01-the-road-to-bryce-0003.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
+
+<a href='javascript:void(0);' name='pic-8000'></a>
+![8000](/images/2026-10-01-the-road-to-bryce/utah-2026-10-01-kristin-the-road-to-bryce-8000.jpg)
+_&nbsp; <a href='{% link photo_info/pi-2026-10-01-utah-2026-10-01-kristin-the-road-to-bryce-8000.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
 We made it to Fish Lake.  I think all those Aspen are part of the Pango.
 
@@ -64,6 +64,24 @@ _&nbsp; <a href='{% link photo_info/pi-2026-10-01-utah-2026-10-01-the-road-to-br
 <a href='javascript:void(0);' name='pic-0008'></a>
 ![0008](/images/2026-10-01-the-road-to-bryce/utah-2026-10-01-the-road-to-bryce-0008.jpg)
 _&nbsp; <a href='{% link photo_info/pi-2026-10-01-utah-2026-10-01-the-road-to-bryce-0008.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
+
+Ya always gotta skip some rocks, just like back at Fulton's Pond.
+
+<a href='javascript:void(0);' name='pic-8001'></a>
+![8001](/images/2026-10-01-the-road-to-bryce/utah-2026-10-01-kristin-the-road-to-bryce-8001.jpg)
+_&nbsp; <a href='{% link photo_info/pi-2026-10-01-utah-2026-10-01-kristin-the-road-to-bryce-8001.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
+
+<a href='javascript:void(0);' name='pic-8002'></a>
+![8002](/images/2026-10-01-the-road-to-bryce/utah-2026-10-01-kristin-the-road-to-bryce-8002.jpg)
+_&nbsp; <a href='{% link photo_info/pi-2026-10-01-utah-2026-10-01-kristin-the-road-to-bryce-8002.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
+
+<a href='javascript:void(0);' name='pic-8003'></a>
+![8003](/images/2026-10-01-the-road-to-bryce/utah-2026-10-01-kristin-the-road-to-bryce-8003.jpg)
+_&nbsp; <a href='{% link photo_info/pi-2026-10-01-utah-2026-10-01-kristin-the-road-to-bryce-8003.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
+
+<a href='javascript:void(0);' name='pic-8004'></a>
+![8004](/images/2026-10-01-the-road-to-bryce/utah-2026-10-01-kristin-the-road-to-bryce-8004.jpg)
+_&nbsp; <a href='{% link photo_info/pi-2026-10-01-utah-2026-10-01-kristin-the-road-to-bryce-8004.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
 <a href='javascript:void(0);' name='pic-0009'></a>
 ![0009](/images/2026-10-01-the-road-to-bryce/utah-2026-10-01-the-road-to-bryce-0009.jpg)
@@ -128,6 +146,16 @@ _&nbsp; <a href='{% link photo_info/pi-2026-10-01-utah-2026-10-01-the-road-to-br
 <a href='javascript:void(0);' name='pic-0024'></a>
 ![0024](/images/2026-10-01-the-road-to-bryce/utah-2026-10-01-the-road-to-bryce-0024.jpg)
 _&nbsp; <a href='{% link photo_info/pi-2026-10-01-utah-2026-10-01-the-road-to-bryce-0024.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
+
+Chief and Chris fell asleep in the house, then got surrounded by some ornery lawmen and their posse.  They ended up having to shoot their way out.  Where the heck is Chavez with the horses?!?
+
+<a href='javascript:void(0);' name='pic-8005'></a>
+![8005](/images/2026-10-01-the-road-to-bryce/utah-2026-10-01-kristin-the-road-to-bryce-8005.jpg)
+_&nbsp; <a href='{% link photo_info/pi-2026-10-01-utah-2026-10-01-kristin-the-road-to-bryce-8005.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
+
+<a href='javascript:void(0);' name='pic-8006'></a>
+![8006](/images/2026-10-01-the-road-to-bryce/utah-2026-10-01-kristin-the-road-to-bryce-8006.jpg)
+_&nbsp; <a href='{% link photo_info/pi-2026-10-01-utah-2026-10-01-kristin-the-road-to-bryce-8006.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
 After that we finally made our way to our Air-bnb in Hatch.  It was a long drive, but we got there okay.
 
