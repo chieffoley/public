@@ -194,7 +194,7 @@ Whoa, there's a whole bunch of strange cave people, they might even be aliens.  
 ![0034](/images/2026-10-02-bryce-canyon-day-2/utah-2026-10-02-bryce-canyon-day-2-0034.jpg)
 _&nbsp; <a href='{% link photo_info/pi-2026-10-02-utah-2026-10-02-bryce-canyon-day-2-0034.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
-"End of trail"?  I don't think so.you can't stop me with that puny sign.
+"End of trail"?  I don't think so. You can't stop me with that puny sign.
 
 <a href='javascript:void(0);' name='pic-0035'></a>
 ![0035](/images/2026-10-02-bryce-canyon-day-2/utah-2026-10-02-bryce-canyon-day-2-0035.jpg)
@@ -285,3 +285,4 @@ Uh oh, here comes a third horse.  This guy was bad news.  I held out my hand to 
 _&nbsp; <a href='{% link photo_info/pi-2026-10-02-utah-2026-10-02-bryce-canyon-day-2-0052.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
 After everyone got cleaned up we decided the most appropriate thing to do tonight was to watch National Lampoon's Vacation, as we could all sympathize with Clark Griswold given our experience with Zion.
+
