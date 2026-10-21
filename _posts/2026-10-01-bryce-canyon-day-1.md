@@ -48,6 +48,14 @@ _&nbsp; <a href='{% link photo_info/pi-2026-10-01-utah-2026-10-01-bryce-canyon-d
 ![0007](/images/2026-10-01-bryce-canyon-day-1/utah-2026-10-01-bryce-canyon-day-1-0007.jpg)
 _&nbsp; <a href='{% link photo_info/pi-2026-10-01-utah-2026-10-01-bryce-canyon-day-1-0007.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
+<a href='javascript:void(0);' name='chris-pic-0'></a>
+![0007](/images/2026-10-01-bryce-canyon-day-1/utah-2026-10-01-bryce-canyon-day-1-chris-0000.jpg)
+_&nbsp;_
+
+<a href='javascript:void(0);' name='chris-pic-1'></a>
+![0007](/images/2026-10-01-bryce-canyon-day-1/utah-2026-10-01-bryce-canyon-day-1-chris-0001.jpg)
+_&nbsp;_
+
 Below is a picture of the Rim Trail, don't get too close to the edge or that could be your last move.  The Rim Trail also has no railing most of the way so its a little disorienting to us flat-landers that are not used to such heights, but the trail is plenty wide so there is no real danger unless you want to walk near the edge.  
 
 You get a good look at the sunset colors in this pic.  From the Rim Trail, you look out east towards the Amphitheater with the sun setting behind you.
