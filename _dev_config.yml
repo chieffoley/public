@@ -29,6 +29,9 @@ url: ""
 #baseurl: "/public" # the subpath of your site, e.g. /blog
 #url: "https://chieffoley.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
+# hosting images on cloudflare r2 now
+image_base_url: "https://pub-e624c230cdb34384bae2b22fd9a0fc86.r2.dev"
+
 github:
   username: github_username # change to your github username
 
@@ -165,7 +168,7 @@ defaults:
       comments: false
   - scope:
       path: photo_info
-    values: 
+    values:
       layout: page
   - scope:
       path: ""
@@ -199,6 +202,7 @@ exclude:
   - LICENSE
   - rollup.config.js
   - package*.json
+  - images
 
 jekyll-archives:
   enabled: [categories, tags]

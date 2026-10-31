@@ -2,7 +2,7 @@
 title: PEI Summerside Harbor
 categories: [photography]
 tags: [boat, landscape, pei, photography]
-image: /images/2024-07-18-pei-summerside-harbor/preview-image.jpg
+image:  https://pub-e624c230cdb34384bae2b22fd9a0fc86.r2.dev/images/2024-07-18-pei-summerside-harbor/preview-image.jpg
 image_wide: True
 ---
 
@@ -10,11 +10,11 @@ We arrived on Prince Edward Island in Summerside, and it was nearing sunset.  We
 
 <a href='javascript:void(0);' name='pic-0001'></a>
 
-![0001](/images/2024-07-18-pei-summerside-harbor/summerside-harbor-0001.jpg)
+![0001]({{ site.image_base_url }}/images/2024-07-18-pei-summerside-harbor/summerside-harbor-0001.jpg)
 _&nbsp; <a href='{% link photo_info/pi-2024-07-18-summerside-harbor-0001.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
 <a href='javascript:void(0);' name='pic-0002'></a>
 
-![0002](/images/2024-07-18-pei-summerside-harbor/summerside-harbor-0002.jpg)
+![0002]({{ site.image_base_url }}/images/2024-07-18-pei-summerside-harbor/summerside-harbor-0002.jpg)
 _&nbsp; <a href='{% link photo_info/pi-2024-07-18-summerside-harbor-0002.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 

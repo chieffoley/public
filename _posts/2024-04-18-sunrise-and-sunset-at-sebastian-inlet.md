@@ -8,16 +8,16 @@ I made it to Sebastian Inlet for both sunrise and sunset today.  When I pulled i
 
 <a href='javascript:void(0);' name='pic-1'></a>
 
-![1](/images/2024-04-18-sunrise-and-sunset-at-sebastian-inlet/sunrise-sunset-1.jpg)
+![1]({{ site.image_base_url }}/images/2024-04-18-sunrise-and-sunset-at-sebastian-inlet/sunrise-sunset-1.jpg)
 _Sunrise looking out from the inlet towards the ocean &nbsp; <a href='{% link photo_info/pi-2024-04-18-sunrise-sunset-1.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
 <a href='javascript:void(0);' name='pic-2'></a>
 
-![2](/images/2024-04-18-sunrise-and-sunset-at-sebastian-inlet/sunrise-sunset-2.jpg)
+![2]({{ site.image_base_url }}/images/2024-04-18-sunrise-and-sunset-at-sebastian-inlet/sunrise-sunset-2.jpg)
 _Another shot a little later, catching the gorgeous color of the early morning sky &nbsp; <a href='{% link photo_info/pi-2024-04-18-sunrise-sunset-2.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
 <a href='javascript:void(0);' name='pic-3'></a>
 
-![3](/images/2024-04-18-sunrise-and-sunset-at-sebastian-inlet/sunrise-sunset-3.jpg)
+![3]({{ site.image_base_url }}/images/2024-04-18-sunrise-and-sunset-at-sebastian-inlet/sunrise-sunset-3.jpg)
 _Sunset shot from the south side of the inlet &nbsp; <a href='{% link photo_info/pi-2024-04-18-sunrise-sunset-3.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 

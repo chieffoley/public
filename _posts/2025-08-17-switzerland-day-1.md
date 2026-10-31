@@ -2,7 +2,7 @@
 title: Switzerland Day 1
 categories: [travel-blog]
 tags: [travel, switzerland, switzerland-2025, photography]
-image: /images/2025-08-17-switzerland-day-1/preview-image.jpg
+image:  https://pub-e624c230cdb34384bae2b22fd9a0fc86.r2.dev/images/2025-08-17-switzerland-day-1/preview-image.jpg
 ---
 
 # 2025 Switzerland - Sunday - Travel-Time
@@ -18,6 +18,6 @@ Once the plane levelled off, the Swiss efficiency kicked in and the food and goo
 Squeakie enjoyed the flight. He could just stare out that window for hours.
 
 <a href='javascript:void(0);' name='pic-0'></a>
-![0](/images/2025-08-17-switzerland-day-1/2025-switzerland-day-1-0.jpg)
+![0]({{ site.image_base_url }}/images/2025-08-17-switzerland-day-1/2025-switzerland-day-1-0.jpg)
 _&nbsp; <a href='{% link photo_info/pi-2025-08-17-2025-switzerland-day-1-0.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 

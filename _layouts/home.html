@@ -16,7 +16,18 @@ refactor: true
 {% endif %}
 
 {% if page.image %}
-  {% capture src %}src="{{ page.image.path | default: page.image }}"{% endcapture %}
+  {% assign preview_src = page.image.path | default: page.image %}
+
+  {% unless preview_src contains '://' or preview_src contains '//' or preview_src contains 'data:' %}
+    {% assign preview_first_char = preview_src | slice: 0, 1 %}
+    {% unless preview_first_char == '/' %}
+      {% assign preview_src = preview_src | prepend: '/' %}
+    {% endunless %}
+    {% assign preview_src = preview_src | prepend: site.image_base_url %}
+  {% endunless %}
+
+  {% capture src %}src="{{ preview_src }}"{% endcapture %}
+  <!--  {% capture src %}src="{{ page.image.path | default: page.image }}"{% endcapture %} -->
   {% capture class %}class="{{ preview_image_class }}{% if page.image.no_bg %}{{ ' no-bg' }}{% endif %}"{% endcapture %}
   {% capture alt %}alt="{{ page.image.alt | xml_escape | default: "Preview Image" }}"{% endcapture %}
 
@@ -76,9 +87,22 @@ refactor: true
 
         {% if post.image %}
           {% assign src = post.image.path | default: post.image %}
+
+          {% unless src contains '://' or src contains '//' or src contains 'data:' %}
+            {% assign image_first_char = src | slice: 0, 1 %}
+
+            {% unless image_first_char == '/' %}
+              {% assign src = post.img_path | append: '/' | append: src %}
+            {% endunless %}
+
+            {% assign src = src | replace: '//', '/' %}
+            {% assign src = src | prepend: site.image_base_url %}
+          {% endunless %}
+          <!--
+          {% assign src = post.image.path | default: post.image %}
           {% unless src contains '//' %}
             {% assign src = post.img_path | append: '/' | append: src | replace: '//', '/' %}
-          {% endunless %}
+            {% endunless %} -->
 
           {% assign alt = post.image.alt | xml_escape | default: 'Preview Image' %}
 
