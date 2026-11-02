@@ -6,7 +6,7 @@ image:  https://pub-e624c230cdb34384bae2b22fd9a0fc86.r2.dev/images/2026-09-29-an
 ---
 
 
-On Tuesday Kristin and I took an early morning trip to Antelope Island to watch the sun rise over the buffalo.
+On Tuesday Kristin and I took an early morning trip to Antelope Island to watch the sunrise over the buffalo.
 
 <a href='javascript:void(0);' name='pic-big'></a>
 ![big]({{ site.image_base_url }}/images/2026-09-29-antelope-island-2026/map-antelope-island-big.png)
@@ -21,7 +21,7 @@ Antelope Island sits north of Salt Lake City and is a large island in the Great 
 ![1000]({{ site.image_base_url }}/images/2026-09-29-antelope-island-2026/utah-2026-09-29-antelope-island-2026-1000.jpg)
 _&nbsp; <a href='{% link photo_info/pi-2026-09-29-utah-2026-09-29-antelope-island-2026-1000.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
-As I mentioned before, Antelope Island is home to a plethora of Buffalo and we saw one right next to the welcome sign.  Chief thought it would be a good idea to get a picture touching it.
+As I mentioned before, Antelope Island is home to a plethora of buffalo and we saw one right next to the welcome sign.  Chief thought it would be a good idea to get a picture touching it.
 
 <a href='javascript:void(0);' name='pic-1003'></a>
 ![1003]({{ site.image_base_url }}/images/2026-09-29-antelope-island-2026/utah-2026-09-29-antelope-island-2026-1003.jpg)
@@ -41,9 +41,9 @@ _&nbsp; <a href='{% link photo_info/pi-2026-09-29-utah-2026-09-29-antelope-islan
 ![1005]({{ site.image_base_url }}/images/2026-09-29-antelope-island-2026/utah-2026-09-29-antelope-island-2026-1005.jpg)
 _&nbsp; <a href='{% link photo_info/pi-2026-09-29-utah-2026-09-29-antelope-island-2026-1005.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
-After that little tussle, we moved on, driving up the east coast of the island.
+After that little tussle, we moved on, driving up the eastern shore of the island.
 
-Here is a map of the path we travelled on the island.
+Here is a map of the route we traveled on the island.
 
 <a href='javascript:void(0);' name='pic-zoomed'></a>
 ![zoomed]({{ site.image_base_url }}/images/2026-09-29-antelope-island-2026/map-antelope-island-zoomed.png)
@@ -53,7 +53,7 @@ Here is a map of the path we travelled on the island.
 ![0000]({{ site.image_base_url }}/images/2026-09-29-antelope-island-2026/utah-2026-09-29-antelope-island-0000.jpg)
 _&nbsp; <a href='{% link photo_info/pi-2026-09-29-utah-2026-09-29-antelope-island-0000.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
-My father taught me that you always have to get some pics of the rental car because it is usually better than the piece of junk you normally drive.  This way you can act like a big shot.  If anyone works for Jeep and wants to use these photos in an advertisement, I will entertain offers.
+My father taught me that you always have to get some pictures of the rental car because it is usually better than the piece of junk you normally drive.  This way you can act like a big shot.  If anyone works for Jeep and wants to use these photos in an advertisement, I will entertain offers.
 
 <a href='javascript:void(0);' name='pic-0001'></a>
 ![0001]({{ site.image_base_url }}/images/2026-09-29-antelope-island-2026/utah-2026-09-29-antelope-island-0001.jpg)
@@ -67,7 +67,7 @@ _&nbsp; <a href='{% link photo_info/pi-2026-09-29-utah-2026-09-29-antelope-islan
 ![0004]({{ site.image_base_url }}/images/2026-09-29-antelope-island-2026/utah-2026-09-29-antelope-island-0004.jpg)
 _&nbsp; <a href='{% link photo_info/pi-2026-09-29-utah-2026-09-29-antelope-island-0004.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
-These yellow flowers are called rabbit-brush or rubber rabbit-brush and they are abundant in Utah, usually found growing on the side of the road.  They make for a good foreground to my landscape photos.  Below we see them with the sun rising over the Wasatch mountains in the background beyond the Great Salt Lake.
+These yellow flowers are called rabbitbrush or rubber rabbitbrush and they are abundant in Utah, often growing on the side of the road.  They make for a good foreground to my landscape photos.  Below we see them with the sun rising over the Wasatch Mountains in the background, beyond the Great Salt Lake.
 
 <a href='javascript:void(0);' name='pic-0002'></a>
 ![0002]({{ site.image_base_url }}/images/2026-09-29-antelope-island-2026/utah-2026-09-29-antelope-island-0002.jpg)
@@ -87,7 +87,7 @@ _Not much traffic out here.&nbsp; <a href='{% link photo_info/pi-2026-09-29-utah
 ![0006]({{ site.image_base_url }}/images/2026-09-29-antelope-island-2026/utah-2026-09-29-antelope-island-0006.jpg)
 _&nbsp; <a href='{% link photo_info/pi-2026-09-29-utah-2026-09-29-antelope-island-0006.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
-As we drove down the east coast of Antelope Island we saw many buffalo.
+As we drove down the eastern shore of Antelope Island we saw many buffalo.
 
 <a href='javascript:void(0);' name='pic-0005'></a>
 ![0005]({{ site.image_base_url }}/images/2026-09-29-antelope-island-2026/utah-2026-09-29-antelope-island-0005.jpg)
@@ -117,7 +117,7 @@ _Rare shot of a buffalo galloping (sort of).&nbsp; <a href='{% link photo_info/p
 ![0015]({{ site.image_base_url }}/images/2026-09-29-antelope-island-2026/utah-2026-09-29-antelope-island-0015.jpg)
 _These two young-uns squared off for a very short mock fight.&nbsp; <a href='{% link photo_info/pi-2026-09-29-utah-2026-09-29-antelope-island-0015.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
-There seems to be some kind of persistent haze over the Great Salt Lake.
+There seemed to be some kind of persistent haze over the Great Salt Lake.
 
 <a href='javascript:void(0);' name='pic-0016'></a>
 ![0016]({{ site.image_base_url }}/images/2026-09-29-antelope-island-2026/utah-2026-09-29-antelope-island-0016.jpg)
@@ -149,7 +149,7 @@ _&nbsp; <a href='{% link photo_info/pi-2026-09-29-utah-2026-09-29-antelope-islan
 ![0022]({{ site.image_base_url }}/images/2026-09-29-antelope-island-2026/utah-2026-09-29-antelope-island-0022.jpg)
 _&nbsp; <a href='{% link photo_info/pi-2026-09-29-utah-2026-09-29-antelope-island-0022.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
-After our drive down the east coast, we headed to Buffalo Point trail and hiked up to the peak to get a better view of the Great Salt Lake.  The peak is about 600 feet higher than the lake.
+After our drive down the eastern shore, we headed to Buffalo Point Trail and hiked up to the peak to get a better view of the Great Salt Lake.  The peak is about 600 feet higher than the lake.
 
 <a href='javascript:void(0);' name='pic-1012'></a>
 ![1012]({{ site.image_base_url }}/images/2026-09-29-antelope-island-2026/utah-2026-09-29-antelope-island-2026-1012.jpg)
@@ -186,7 +186,7 @@ _&nbsp; <a href='{% link photo_info/pi-2026-09-29-utah-2026-09-29-antelope-islan
 _&nbsp;_
 
 
-They are still trying to tell me that these are bison, but I don't care, they are buffalo to me and always will be, dag-gummit.
+They are still trying to tell me that these are bison, but I don't care, they're buffalo to me and always will be, daggumm-it.
 
 <a href='javascript:void(0);' name='pic-1010'></a>
 ![1010]({{ site.image_base_url }}/images/2026-09-29-antelope-island-2026/utah-2026-09-29-antelope-island-2026-1010.jpg)

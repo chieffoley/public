@@ -30,7 +30,7 @@ There were plenty of hills to the east, so I turned and started to make my way u
 ![0004]({{ site.image_base_url }}/images/2026-09-23-tunnel-springs-sunrise/utah-2026-09-23-morning-tunnel-springs-0004.jpg)
 _&nbsp; <a href='{% link photo_info/pi-2026-09-23-utah-2026-09-23-morning-tunnel-springs-0004.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
-I guess I'm not used to the altitude here, because as soon as I started climbing up all the breath left me and after a few minutes I was gasping for air.  Excited to see what I could see from up there, I was going too fast, so I had to intentionally slow down my pace, and take breaks.  I crested the hill and at the top I saw that the path continued and there was another hill crest even higher.  Well, if the view was good from here, it must be even better up there, so up I went, again.  Wouldn't you know it, when I got to the top of that I found that it was hiding yet another peak a little further up, so up I went.  Then, when I crested that peak, I found one more hiding behind that, but by this time the darkness had faded and the sun was getting ready to rise and I had a feeling that there might be no end to this nesting doll set of peaks, they could go on one behind the other forever like this.  So, I stopped climbing here.  I was now at about 5800 feet.  Here is the map of my hike:
+I guess I'm not used to the altitude here, because as soon as I started climbing up all the breath left me and after a few minutes I was gasping for air.  Excited to see what I could see from up there, I was going too fast, so I had to intentionally slow down my pace, and take breaks.  I crested the hill and at the top I saw that the path continued and there was another hill crest even higher.  Well, if the view was good from here, it must be even better up there, so up I went, again.  Wouldn't you know it, when I got to the top of that I found that it was hiding yet another peak a little further up, so up I went.  Then, when I crested that peak, I found one more hiding behind that, but by this time the darkness had faded and the sun was getting ready to rise and I had a feeling that there might be no end to this nesting doll set of peaks, they could go on one behind the other forever.  So, I stopped climbing here.  I was now at about 5800 feet.  Here is the map of my hike:
 
 <a href='javascript:void(0);' name='my-hike'></a>
 ![0003]({{ site.image_base_url }}/images/2026-09-23-tunnel-springs-sunrise/my-hike.png)
@@ -42,13 +42,13 @@ Here are the pictures I took along the way.
 ![0003]({{ site.image_base_url }}/images/2026-09-23-tunnel-springs-sunrise/utah-2026-09-23-morning-tunnel-springs-0003.jpg)
 _&nbsp; <a href='{% link photo_info/pi-2026-09-23-utah-2026-09-23-morning-tunnel-springs-0003.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
-I think the one below is from the first hilltop, you can see the path down to the main trail.
+I think the picture below is from the first hilltop, you can see the path down to the main trail.
 
 <a href='javascript:void(0);' name='pic-0005'></a>
 ![0005]({{ site.image_base_url }}/images/2026-09-23-tunnel-springs-sunrise/utah-2026-09-23-morning-tunnel-springs-0005.jpg)
 _&nbsp; <a href='{% link photo_info/pi-2026-09-23-utah-2026-09-23-morning-tunnel-springs-0005.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
-The body of water in the distance is The Great Salt Lake.  The dark hills rising out of the lake on the right side of the frame is Antelope Island.  Kristin and I would go there later in our trip, so stay tuned for that post.  For reference, the closest part of Antelope Island is about 10 miles from where I took this picture, and the mountains behind it are about 20 miles.
+The body of water in the distance is The Great Salt Lake.  The dark hills rising out of the lake on the right side of the frame is Antelope Island.  Kristin and I would go there later in our trip, so stay tuned for that post.  For reference, the closest part of Antelope Island is about 10 miles from where I took this picture, and the mountains behind it are about 20 miles away.
 
 <a href='javascript:void(0);' name='pic-0006'></a>
 ![0006]({{ site.image_base_url }}/images/2026-09-23-tunnel-springs-sunrise/utah-2026-09-23-morning-tunnel-springs-0006.jpg)
@@ -78,7 +78,7 @@ The picture below is looking to the northwest.
 ![0012]({{ site.image_base_url }}/images/2026-09-23-tunnel-springs-sunrise/utah-2026-09-23-morning-tunnel-springs-0012.jpg)
 _&nbsp; <a href='{% link photo_info/pi-2026-09-23-utah-2026-09-23-morning-tunnel-springs-0012.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
-I hit a certain altitude and the mosquitoes started swarming me.  Fortunately, I always carry some bug spray in my pack, otherwise I might not have survived this hike.
+At a certain altitude and the mosquitoes started swarming me.  Fortunately, I always carry some bug spray in my pack, otherwise I might not have survived this hike.
 
 <a href='javascript:void(0);' name='pic-0013'></a>
 ![0013]({{ site.image_base_url }}/images/2026-09-23-tunnel-springs-sunrise/utah-2026-09-23-morning-tunnel-springs-0013.jpg)
@@ -92,7 +92,7 @@ _&nbsp; <a href='{% link photo_info/pi-2026-09-23-utah-2026-09-23-morning-tunnel
 ![0016]({{ site.image_base_url }}/images/2026-09-23-tunnel-springs-sunrise/utah-2026-09-23-morning-tunnel-springs-0016.jpg)
 _&nbsp; <a href='{% link photo_info/pi-2026-09-23-utah-2026-09-23-morning-tunnel-springs-0016.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
-Looking back towards the city I can see the radio towers (at the left of the frame) that Kristin and I would hike towards later today; I liked it so much here I had to come back to show her.  The hills ripple here, like some giant pick them up and shook them out like they were a giant bedsheet.
+Looking back toward the city I can see the radio towers (at the left of the frame) that Kristin and I would hike toward later today; I liked it so much here I had to come back to show her.  The hills ripple here, as if some giant had picked them up and shaken them out like a bedsheet.
 
 <a href='javascript:void(0);' name='pic-0017'></a>
 ![0017]({{ site.image_base_url }}/images/2026-09-23-tunnel-springs-sunrise/utah-2026-09-23-morning-tunnel-springs-0017.jpg)

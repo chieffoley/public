@@ -5,7 +5,7 @@ tags: [slc-2026, utah, travel, photography]
 image:  https://pub-e624c230cdb34384bae2b22fd9a0fc86.r2.dev/images/2026-09-20-slc-capitol/preview-image.jpg
 ---
 
-Kristin and I travelled to Salt Lake City to visit Lucas.  While there we made a trip to the capitol building in the evening.  I highly recommend visiting the capital building, it is an imposing piece of architecture built from zillions of tons of solid granite.  During the day the stone absorbs the heat from the sun, and you can feel that heat radiating as the sun sets.  You will notice a marked difference between the cool air over the lawn area and the warmth thrown off of the stone.
+Kristin and I traveled to Salt Lake City to visit Lucas.  While there we made a trip to the capitol building in the evening.  I highly recommend visiting the capital building, it is an imposing piece of architecture built from zillions of tons of solid granite.  During the day the stone absorbs the heat from the sun, and you can feel that heat radiating as the sun sets.  You will notice a marked difference between the cool air over the lawn area and the warmth thrown off of the stone.
 
 This is a perfect place to go, hang out on the lush lawn, and read a book or have a picnic.  It is also great for watching the sunset.
 
@@ -17,7 +17,7 @@ _&nbsp; <a href='{% link photo_info/pi-2026-09-20-utah-09-20-0000.md %}'><i clas
 ![0001]({{ site.image_base_url }}/images/2026-09-20-slc-capitol/utah-09-20-0001.jpg)
 _&nbsp; <a href='{% link photo_info/pi-2026-09-20-utah-09-20-0001.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
-The building itself sits on the north end of State Street on Captiol Hill.  Its front door faces due south.  On the west side of the building sit two regal stone lions, Honor and Patience.
+The building itself sits on the north end of State Street on Capitol Hill.  Its front door faces due south.  On the west side of the building are two regal stone lions, Honor and Patience.
 
 <a href='javascript:void(0);' name='pic-0002'></a>
 ![0002]({{ site.image_base_url }}/images/2026-09-20-slc-capitol/utah-09-20-0002.jpg)
@@ -29,7 +29,7 @@ _This picture is taken from the main steps looking west &nbsp; <a href='{% link 
 
 <a href='javascript:void(0);' name='pic-0005'></a>
 ![0005]({{ site.image_base_url }}/images/2026-09-20-slc-capitol/utah-09-20-0005.jpg)
-_To the southeast a church steeple stands out, with the Wasatch mountains in the background &nbsp; <a href='{% link photo_info/pi-2026-09-20-utah-09-20-0005.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
+_To the southeast a church steeple stands out, with the Wasatch Mountains in the background &nbsp; <a href='{% link photo_info/pi-2026-09-20-utah-09-20-0005.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
 The monument below commemorates the Mormons that joined the US military in the war against Mexico.
 <a href='javascript:void(0);' name='pic-0006'></a>

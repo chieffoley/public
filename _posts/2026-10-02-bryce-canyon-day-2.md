@@ -5,9 +5,9 @@ tags: [landscape, utah, slc-2026, travel, wildlife, photography]
 image:  https://pub-e624c230cdb34384bae2b22fd9a0fc86.r2.dev/images/2026-10-02-bryce-canyon-day-2/preview-image.jpg
 ---
 
-The fog rolled into the back yard of our homestead and engulfed the landscape, starting the day with an eerie feel.  I took advantage of these conditions to take some moody photos, as we don't often get fog like this in New England.
+The fog rolled into the backyard of our homestead and engulfed the landscape, giving the day an eerie start.  I took advantage of these conditions to take some moody photos, as we don't often get fog like this in New England.
 
-Behind the house, about 100 yards out is a river and on the river is a gazebo with a picnic table.  In the picture below the river is hidden by the fog.
+About 100 yards behind the house is a river, beside which stands a gazebo with a picnic table.  In the picture below the river is hidden by the fog.
 
 <a href='javascript:void(0);' name='pic-0001'></a>
 ![0001]({{ site.image_base_url }}/images/2026-10-02-bryce-canyon-day-2/utah-2026-10-02-bryce-canyon-day-2-0001.jpg)
@@ -17,7 +17,7 @@ _&nbsp; <a href='{% link photo_info/pi-2026-10-02-utah-2026-10-02-bryce-canyon-d
 ![0002]({{ site.image_base_url }}/images/2026-10-02-bryce-canyon-day-2/utah-2026-10-02-bryce-canyon-day-2-0002.jpg)
 _&nbsp; <a href='{% link photo_info/pi-2026-10-02-utah-2026-10-02-bryce-canyon-day-2-0002.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
-I ventured down into the fog to get a look at it up close and to see the river, which was the source of this thick, mysterious cloud looming over the land.
+I ventured down into the fog to get a look at it up close and to see the river, which seemd to be the source of this thick, mysterious fog looming over the land.
 
 <a href='javascript:void(0);' name='pic-0003'></a>
 ![0003]({{ site.image_base_url }}/images/2026-10-02-bryce-canyon-day-2/utah-2026-10-02-bryce-canyon-day-2-0003.jpg)
@@ -31,7 +31,7 @@ _&nbsp; <a href='{% link photo_info/pi-2026-10-02-utah-2026-10-02-bryce-canyon-d
 ![0005]({{ site.image_base_url }}/images/2026-10-02-bryce-canyon-day-2/utah-2026-10-02-bryce-canyon-day-2-0005.jpg)
 _&nbsp; <a href='{% link photo_info/pi-2026-10-02-utah-2026-10-02-bryce-canyon-day-2-0005.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
-I woke up Lucas and invited him out to enjoy the sunrise with me.  We stood amongst the fog and watched it retreat as the sun battled back the darkness of the night.  Another beautiful day in Utah was dawning.
+I woke up Lucas and invited him out to enjoy the sunrise with me.  We stood amid the fog and watched it retreat as the sun battled back the darkness of the night.  Another beautiful day in Utah was dawning.
 
 <a href='javascript:void(0);' name='lucas-and-dad'></a>
 ![0006]({{ site.image_base_url }}/images/2026-10-02-bryce-canyon-day-2/Lucas-and-dad.jpg)
@@ -53,11 +53,11 @@ As the last wisps of fog dissipated, four horses showed up in the field next to 
 ![0007]({{ site.image_base_url }}/images/2026-10-02-bryce-canyon-day-2/utah-2026-10-02-bryce-canyon-day-2-0007.jpg)
 _&nbsp; <a href='{% link photo_info/pi-2026-10-02-utah-2026-10-02-bryce-canyon-day-2-0007.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
-The plan for today was to visit Zion National Park.  We assembled, had some breakfast, and loaded up the six of us into the Durango to make the trip to Zion.  The south entrance to Zion is about one and half hours from our house.  
+The plan for today was to visit Zion National Park.  We assembled, had some breakfast, and loaded up the six of us into the Durango to make the trip to Zion.  The south entrance to Zion is about one hour and a half from our house.  
 
-Along the way we saw a family of dear crossing the road.  There were two little baby dear with them and after they crossed the road they leapt through the cross members of the split rail fence and into the underbrush beyond.  It was an unexpected treat to see them.
+Along the way we saw a family of deer crossing the road.  There were two little baby deer with them and after they crossed the road they leapt between the cross members of the split rail fence and into the underbrush beyond.  It was an unexpected treat to see them.
 
-We continued to make our way to Zion.  Once you cross into the actual park, it is about another half hour to get to the south "entrance" which was our destination.  Unfortunately for us, when we got to the place where you cross into the park there was a man closing the gates on the road.  Chris got out and talked to him.  I think the response from the man was something like, "Sorry folks, road's closed.  The moose out front should have told you."  Aaargh.  We tried to bribe him, but to no avail.  He closed and locked the gate, and that was that.  The alternate route to the entrance is at least 2 hours more (rather than the half hour that we thought we had left), so we decided to go to Bryce again instead.  If you go anywhere in this area make sure you check the status of the roads before you head out.
+We continued to make our way to Zion.  Once you cross into the actual park, it is about another half hour to reach the south "entrance" which was our destination.  Unfortunately for us, when we reached the place where you cross into the park, a man was closing the gates across the road. Chris got out and talked to him.  I think the response from the man was something like, "Sorry folks, road's closed.  The moose out front should have told you."  Aaargh.  We tried to bribe him, but to no avail.  He closed and locked the gate, and that was that.  The alternate route to the entrance would take at least 2 hours longer (rather than the half hour that we thought we had left), so we decided to go to Bryce again instead.  If you go anywhere in this area make sure you check the status of the roads before you head out.
 
 So, technically we did go to Zion, and we have the picture to prove it.
 
@@ -67,7 +67,7 @@ _&nbsp; <a href='{% link photo_info/pi-2026-10-02-utah-2026-10-02-bryce-canyon-d
 
 We headed back to Bryce, stopping at the house on the way back.  Lucas decided to take his truck for a solo drive around the area, while the rest of us went to Bryce.
 
-Once there, we headed to sunset point to start our hike.  The hike goes down, taking steep switchbacks, about 600 vertical feet spilling out onto the amphitheater floor, then follows along the floor for a while before gradually heading back up and exiting the amphitheater at sunrise point.  From there you can follow the Rim Trail back to sunset point.  In all it covers a little over three miles.  It is referred to as the Queen's/Navajo Combination Loop on the map below.
+Once there, we headed to Sunset Point to start our hike.  The trail descends about 600 vertical feet via steep switchbacks to the amphitheater floor, then follows along the floor for a while before gradually climbin back up and exiting the amphitheater at Sunrise Point.  From there you can follow the Rim Trail back to Sunset Point.  In all it covers a little over three miles.  It is referred to as the Queen's/Navajo Combination Loop on the map below.
 
 <a href='javascript:void(0);' name='map'></a>
 ![0009]({{ site.image_base_url }}/images/2026-10-02-bryce-canyon-day-2/trail.png)
@@ -115,7 +115,7 @@ It seems like trees around here like to have their roots above ground.
 ![0018]({{ site.image_base_url }}/images/2026-10-02-bryce-canyon-day-2/utah-2026-10-02-bryce-canyon-day-2-0018.jpg)
 _&nbsp; <a href='{% link photo_info/pi-2026-10-02-utah-2026-10-02-bryce-canyon-day-2-0018.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
-We started down the trail.  We were all a little nervous about being near the edge, so we hugged the inside of the trail where possible.  The drop off the edge of the trail is quite a long fall, so flat-landers like us are not too comfortable with that.
+We started down the trail.  We were all a little nervous about being near the edge, so we hugged the inside of the trail where possible.  The drop off the edge of the trail is quite a long fall, so flatlanders like us are not too comfortable with that.
 
 <a href='javascript:void(0);' name='pic-0019'></a>
 ![0019]({{ site.image_base_url }}/images/2026-10-02-bryce-canyon-day-2/utah-2026-10-02-bryce-canyon-day-2-0019.jpg)
@@ -136,7 +136,7 @@ A strange root-like giant snake is seen crawling over the rocks.
 ![0022]({{ site.image_base_url }}/images/2026-10-02-bryce-canyon-day-2/utah-2026-10-02-bryce-canyon-day-2-0022.jpg)
 _&nbsp; <a href='{% link photo_info/pi-2026-10-02-utah-2026-10-02-bryce-canyon-day-2-0022.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
-As we descended, we had to remember to look up once in a while, it is a whole different perspective down here.
+As we descended, we had to remember to look up once in a while; the perspective from down here is completely different.
 
 <a href='javascript:void(0);' name='pic-0023'></a>
 ![0023]({{ site.image_base_url }}/images/2026-10-02-bryce-canyon-day-2/utah-2026-10-02-bryce-canyon-day-2-0023.jpg)
@@ -152,7 +152,7 @@ We saw a rock that was starting to fall over so Chris ran over and held it up.
 ![0025]({{ site.image_base_url }}/images/2026-10-02-bryce-canyon-day-2/utah-2026-10-02-bryce-canyon-day-2-0025.jpg)
 _&nbsp; <a href='{% link photo_info/pi-2026-10-02-utah-2026-10-02-bryce-canyon-day-2-0025.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
-After a while Chris got tired, so Emily and I got under there and moved it back into place to make it safe.
+After a while Chris got tired, so Emily and I got underneath it and moved it back into place to make it safe.
 
 <a href='javascript:void(0);' name='pic-0026'></a>
 ![0026]({{ site.image_base_url }}/images/2026-10-02-bryce-canyon-day-2/utah-2026-10-02-bryce-canyon-day-2-0026.jpg)
@@ -182,13 +182,13 @@ _&nbsp; <a href='{% link photo_info/pi-2026-10-02-utah-2026-10-02-bryce-canyon-d
 ![0032]({{ site.image_base_url }}/images/2026-10-02-bryce-canyon-day-2/utah-2026-10-02-bryce-canyon-day-2-0032.jpg)
 _Emily found a nice resting spot.&nbsp; <a href='{% link photo_info/pi-2026-10-02-utah-2026-10-02-bryce-canyon-day-2-0032.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
-We found an ancient cave man.  He seems friendly, but you can never be too sure.
+We found an ancient caveman.  He seems friendly, but you can never be too sure.
 
 <a href='javascript:void(0);' name='pic-0033'></a>
 ![0033]({{ site.image_base_url }}/images/2026-10-02-bryce-canyon-day-2/utah-2026-10-02-bryce-canyon-day-2-0033.jpg)
 _&nbsp; <a href='{% link photo_info/pi-2026-10-02-utah-2026-10-02-bryce-canyon-day-2-0033.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
-Whoa, there's a whole bunch of strange cave people, they might even be aliens.  We moved on quickly from this spot, too dangerous with all these weird creatures around.
+Whoa, there's a whole bunch of strange cave people; they might even be aliens.  We moved on quickly from this spot, too dangerous with all these weird creatures around.
 
 <a href='javascript:void(0);' name='pic-0034'></a>
 ![0034]({{ site.image_base_url }}/images/2026-10-02-bryce-canyon-day-2/utah-2026-10-02-bryce-canyon-day-2-0034.jpg)
@@ -246,13 +246,13 @@ Emily and I went up ahead and got to the end of the trail before the others.  Wh
 ![0045]({{ site.image_base_url }}/images/2026-10-02-bryce-canyon-day-2/utah-2026-10-02-bryce-canyon-day-2-0045.jpg)
 _&nbsp; <a href='{% link photo_info/pi-2026-10-02-utah-2026-10-02-bryce-canyon-day-2-0045.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
-This would have been a great picture of the bird sitting on a branch within arm's reach of me if the bird hadn't flown away just before the shutter on my camera snapped open.  If you relax your eyes and use your imagination you can almost see him there.
+This would have been a great picture of the bird sitting on a branch within arm's reach of me if it hadn't flown away just before my camera's shutter snapped open.  If you relax your eyes and use your imagination you can almost see him there.
 
 <a href='javascript:void(0);' name='pic-0046'></a>
 ![0046]({{ site.image_base_url }}/images/2026-10-02-bryce-canyon-day-2/utah-2026-10-02-bryce-canyon-day-2-0046.jpg)
 _&nbsp; <a href='{% link photo_info/pi-2026-10-02-utah-2026-10-02-bryce-canyon-day-2-0046.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
-We left Bryce Canyon and returned to our house.  I grabbed a little bit of sugar and went out to make some friends in the back yard.
+We left Bryce Canyon and returned to our house.  I grabbed a little bit of sugar and went out to make some friends in the backyard.
 
 <a href='javascript:void(0);' name='pic-0047'></a>
 ![0047]({{ site.image_base_url }}/images/2026-10-02-bryce-canyon-day-2/utah-2026-10-02-bryce-canyon-day-2-0047.jpg)

@@ -4,24 +4,24 @@ categories: [photography]
 tags: [landscape, utah, slc-2026, travel, photography]
 ---
 
-This post is about the road to Bryce Canyon, but I have to start by talking about our Air-bnb in Salt Lake City first.  This place was great, we loved it.  My favorite part is that it has the Harvard Classics Five Foot Bookshelf!!
+This post is about the road to Bryce Canyon, but I have to start by talking about our Airbnb in Salt Lake City.  This place was great, we loved it.  My favorite part is that it has the Harvard Classics Five Foot Bookshelf!!
 
-This is perfect for me, I can't believe it.  I perused it for a little while, and it is in mint condition.  It is a 1967 printing.  Basically, I fell in love with it.  I have not seen anything better in an Air-bnb, ever.
+This was perfect for me; I couldn't believe it.  I perused it for a little while, and it is in mint condition.  It is a 1967 printing.  Basically, I fell in love with it.  I have not seen anything better in an Airbnb, ever.
 <a href='javascript:void(0);' name='pic-0000'></a>
 ![0000]({{ site.image_base_url }}/images/2026-10-01-the-road-to-bryce/utah-2026-10-01-the-road-to-bryce-0000.jpg)
 _&nbsp; <a href='{% link photo_info/pi-2026-10-01-utah-2026-10-01-the-road-to-bryce-0000.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
-Okay, we can move on now.  Chris, Lori, and Emily all arrived on Wednesday and spent the night at our Air-bnb, and yes they had to listen to me rave about the bookshelf.  We checked out Thursday morning and hit the road, heading to Bryce Canyon.  Emily and Lucas went in Lucas' truck, while Kristin, I, Lori, and Chris all went in our new rental, a Dodge Durango (we needed more room than the Jeep).
+Okay, we can move on now.  Chris, Lori, and Emily all arrived on Wednesday and spent the night at our Airbnb, and yes they had to listen to me rave about the bookshelf.  We checked out Thursday morning and hit the road, heading to Bryce Canyon.  Emily and Lucas went in Lucas' truck, while Kristin, Lori, Chris, and I all went in our new rental, a Dodge Durango (we needed more room than the Jeep).
 
 <a href='javascript:void(0);' name='map'></a>
 ![0024]({{ site.image_base_url }}/images/2026-10-01-the-road-to-bryce/map-road-to-bryce.png)
 _map&nbsp;_
 
-I always say that you need to be careful in Rhode Island because all of their speed limits are 5 MPH lower than Massachusetts.  If a residential neighborhood is 30 MPH in Mass, then it will be 25 MPH in RI.  Well, in Utah, it seems like all the speed limits are _double_ what they would be in Massachusetts (at least outside of the city).  If a road has a limit of 40 MPH in Mass, you can likely do 80 in Utah - its crazy.  They literally have normal roads with one line in each direction and a yellow line that have a speed limit of 70, and that is the norm.  At first it was difficult for me to even do the speed limit, it was so foreign, but you get used to it quickly, and soon I was doing 80 the whole way.  If I ever get pulled over for speeding in Massachusetts, I'm going to tell the cop I just got back from Utah, and if he has any experience with Utah he will completely understand.
+I always say that you need to be careful in Rhode Island because all of their speed limits are 5 MPH lower than Massachusetts.  If a residential neighborhood is 30 MPH in Mass, then it will be 25 MPH in RI.  Well, in Utah, it seems like all the speed limits are _double_ what they would be in Massachusetts (at least outside of the city).  If a road has a limit of 40 MPH in Mass, you can likely do 80 in Utah - it's crazy.  They have ordinary two-lane roads with one lane in each direction and a yellow centerline, where the speed limit is 70. That is the norm.  At first it was difficult for me to even drive the speed limit; it felt so foreign. But you get used to it quickly, and soon I was doing 80 the whole way.  If I ever get pulled over for speeding in Massachusetts, I'm going to tell the cop I just got back from Utah, and if he has any experience with Utah he will completely understand.
 
-The good thing is that the roads out here are super smooth and you can see for about 10 miles in all directions.  I think the only thing you have to worry about is some wildlife jumping out in front of you.  At one point, we did have a family of dear crossing the road, but fortunately I could spot them from a mile away.
+The good thing is that the roads out here are super smooth and you can see for about 10 miles in all directions.  I think the only thing you have to worry about is some wildlife jumping out in front of you.  At one point, we did have a family of deer crossing the road, but fortunately I could spot them from a mile away.
 
-We took a little detour to visit Fish Lake and see the world's largest living organism along the way.  The organism is Pango a stand of Aspen trees that are all connected or cloned or something like that.  I don't understand all this sciency stuff, but its pretty cool.
+We took a little detour to visit Fish Lake and see the world's largest living organism along the way.  The organism is Pando a stand of aspen trees that are all connected or cloned or something like that.  I don't understand all this sciency stuff, but its pretty cool.
 
 <a href='javascript:void(0);' name='pic-0001'></a>
 ![0001]({{ site.image_base_url }}/images/2026-10-01-the-road-to-bryce/utah-2026-10-01-the-road-to-bryce-0001.jpg)
@@ -39,7 +39,7 @@ _We're definitely in the mountains now.&nbsp; <a href='{% link photo_info/pi-202
 ![8000]({{ site.image_base_url }}/images/2026-10-01-the-road-to-bryce/utah-2026-10-01-kristin-the-road-to-bryce-8000.jpg)
 _&nbsp; <a href='{% link photo_info/pi-2026-10-01-utah-2026-10-01-kristin-the-road-to-bryce-8000.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
-We made it to Fish Lake.  I think all those Aspen are part of the Pango.
+We made it to Fish Lake.  I think all those aspen trees are part of the pango.
 
 <a href='javascript:void(0);' name='pic-0005'></a>
 ![0005]({{ site.image_base_url }}/images/2026-10-01-the-road-to-bryce/utah-2026-10-01-the-road-to-bryce-0005.jpg)
@@ -55,7 +55,7 @@ And here comes Lucas and Emily.
 ![0006]({{ site.image_base_url }}/images/2026-10-01-the-road-to-bryce/utah-2026-10-01-the-road-to-bryce-0006.jpg)
 _&nbsp; <a href='{% link photo_info/pi-2026-10-01-utah-2026-10-01-the-road-to-bryce-0006.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
-We spent some time just hanging out at the lake, it is gorgeous here, and another perfect day weather-wise.
+We spent some time just hanging out at the lake, it is gorgeous here, and it was another perfect day weather-wise.
 
 <a href='javascript:void(0);' name='pic-0007'></a>
 ![0007]({{ site.image_base_url }}/images/2026-10-01-the-road-to-bryce/utah-2026-10-01-the-road-to-bryce-0007.jpg)
@@ -129,7 +129,7 @@ _&nbsp; <a href='{% link photo_info/pi-2026-10-01-utah-2026-10-01-the-road-to-br
 ![0020]({{ site.image_base_url }}/images/2026-10-01-the-road-to-bryce/utah-2026-10-01-the-road-to-bryce-0020.jpg)
 _&nbsp; <a href='{% link photo_info/pi-2026-10-01-utah-2026-10-01-the-road-to-bryce-0020.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
-After leaving Fish Lake, we continued on our journey.  It is a long ride from Salt Lake City to the Bryce Canyon area, especially when you stop at Fish Lake.  We were all wearing down, then we saw a sign for Butch Cassidy's boyhood home!  What great luck!  We had to stop to check that out.
+After leaving Fish Lake, we continued on our journey.  It is a long drive from Salt Lake City to the Bryce Canyon area, especially when you stop at Fish Lake.  We were all wearing down when we saw a sign for Butch Cassidy's boyhood home!  What great luck!  We had to stop to check that out.
 
 <a href='javascript:void(0);' name='pic-0021'></a>
 ![0021]({{ site.image_base_url }}/images/2026-10-01-the-road-to-bryce/utah-2026-10-01-the-road-to-bryce-0021.jpg)
@@ -157,5 +157,5 @@ _&nbsp; <a href='{% link photo_info/pi-2026-10-01-utah-2026-10-01-kristin-the-ro
 ![8006]({{ site.image_base_url }}/images/2026-10-01-the-road-to-bryce/utah-2026-10-01-kristin-the-road-to-bryce-8006.jpg)
 _&nbsp; <a href='{% link photo_info/pi-2026-10-01-utah-2026-10-01-kristin-the-road-to-bryce-8006.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
-After that we finally made our way to our Air-bnb in Hatch.  It was a long drive, but we got there okay.
+After that we finally made our way to our Airbnb in Hatch.  It was a long drive, but we got there okay.
 

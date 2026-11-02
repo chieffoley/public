@@ -6,13 +6,13 @@ image:  https://pub-e624c230cdb34384bae2b22fd9a0fc86.r2.dev/images/2026-09-23-tu
 image_wide: False
 ---
 
-After such a successful sunrise hike at Tunnel Springs Park, I invited Kristin to join me for a similar sunset hike (or maybe late afternoon hike).  So we set out to Tunnel Springs Park, and hiked along the Bonneville Shoreline Trail, this time we stayed on the trail and followed it until we got close to the radio towers.  We didn't feel the need to go all the way to the radio towers, so before we got to the river we just hiked up a small hill to enjoy the view.  From there you could see the city.
+After such a successful sunrise hike at Tunnel Springs Park, I invited Kristin to join me for a similar hike at sunset (or maybe I should say late afternoon).  We set out for Tunnel Springs Park, and hiked along the Bonneville Shoreline Trail.  This time, we stayed on the trail and followed it until we got close to the radio towers.  We didn't feel the need to go all the way to the towers, so before reaching them we stopped and hiked up a small hill to enjoy the view.  From there we could see the city.
 
 <a href='javascript:void(0);' name='map-tunnel-springs-sunset-hike'></a>
 ![0001]({{ site.image_base_url }}/images/2026-09-23-tunnel-springs-sunset/map-tunnel-springs-sunset-hike.png)
 _map&nbsp;_
 
-These Black-eyed Susan flowers are all over the place in Utah.
+These black-eyed Susan flowers are all over the place in Utah.
 
 <a href='javascript:void(0);' name='pic-0000'></a>
 ![0000]({{ site.image_base_url }}/images/2026-09-23-tunnel-springs-sunset/utah-2026-09-23-sunset-tunnel-springs-0000.jpg)
@@ -74,13 +74,13 @@ _&nbsp; <a href='{% link photo_info/pi-2026-09-23-utah-2026-09-23-sunset-tunnel-
 ![0013]({{ site.image_base_url }}/images/2026-09-23-tunnel-springs-sunset/utah-2026-09-23-sunset-tunnel-springs-0013.jpg)
 _&nbsp; <a href='{% link photo_info/pi-2026-09-23-utah-2026-09-23-sunset-tunnel-springs-0013.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
-More Black-eyed Susans.
+More black-eyed Susans.
 
 <a href='javascript:void(0);' name='pic-0015'></a>
 ![0015]({{ site.image_base_url }}/images/2026-09-23-tunnel-springs-sunset/utah-2026-09-23-sunset-tunnel-springs-0015.jpg)
 _&nbsp; <a href='{% link photo_info/pi-2026-09-23-utah-2026-09-23-sunset-tunnel-springs-0015.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
-And finally, here is the water tower as seen from our hotel room window. Just to the right of it you can see the radio towers on the hill in the background.  The dark hill to the left of it was where Kristin and I ended our hike and took most of the pictures.
+And finally, here is the water tower as seen from our hotel-room window. Just to the right of it you can see the radio towers on the hill in the background.  The dark hill to the left of it was where Kristin and I ended our hike and took most of the pictures.
 
 <a href='javascript:void(0);' name='pic-0016'></a>
 ![0016]({{ site.image_base_url }}/images/2026-09-23-tunnel-springs-sunset/utah-2026-09-23-sunset-tunnel-springs-0016.jpg)
