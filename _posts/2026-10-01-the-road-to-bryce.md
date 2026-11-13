@@ -21,7 +21,7 @@ I always say that you need to be careful in Rhode Island because all of their sp
 
 The good thing is that the roads out here are super smooth and you can see for about 10 miles in all directions.  I think the only thing you have to worry about is some wildlife jumping out in front of you.  At one point, we did have a family of deer crossing the road, but fortunately I could spot them from a mile away.
 
-We took a little detour to visit Fish Lake and see the world's largest living organism along the way.  The organism is Pando a stand of aspen trees that are all connected or cloned or something like that.  I don't understand all this sciency stuff, but its pretty cool.
+We took a little detour to visit Fish Lake and see the world's largest living organism along the way.  The organism is Pango a stand of aspen trees that are all connected or cloned or something like that.  I don't understand all this sciency stuff, but its pretty cool.
 
 <a href='javascript:void(0);' name='pic-0001'></a>
 ![0001]({{ site.image_base_url }}/images/2026-10-01-the-road-to-bryce/utah-2026-10-01-the-road-to-bryce-0001.jpg)

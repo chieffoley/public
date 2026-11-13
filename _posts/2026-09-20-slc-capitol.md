@@ -5,9 +5,9 @@ tags: [slc-2026, utah, travel, photography]
 image:  https://pub-e624c230cdb34384bae2b22fd9a0fc86.r2.dev/images/2026-09-20-slc-capitol/preview-image.jpg
 ---
 
-Kristin and I traveled to Salt Lake City to visit Lucas.  While there we made a trip to the capitol building in the evening.  I highly recommend visiting the capital building, it is an imposing piece of architecture built from zillions of tons of solid granite.  During the day the stone absorbs the heat from the sun, and you can feel that heat radiating as the sun sets.  You will notice a marked difference between the cool air over the lawn area and the warmth thrown off of the stone.
+Kristin and I traveled to Salt Lake City to visit Lucas.  While there we made a trip to the capitol building in the evening.  I highly recommend visiting the capital building, it is an imposing piece of architecture built from zillions of tons of solid granite.  During the day the stone absorbs the heat from the sun, and you can feel that heat radiating as the sun sets.  You will notice a marked difference between the cool air over the lawn area and the warmth thrown from the stone.
 
-This is a perfect place to go, hang out on the lush lawn, and read a book or have a picnic.  It is also great for watching the sunset.
+This is a perfect place to go, hang out on the lush lawn, read a book or have a picnic.  It is also great for watching the sunset.
 
 <a href='javascript:void(0);' name='pic-0000'></a>
 ![0000]({{ site.image_base_url }}/images/2026-09-20-slc-capitol/utah-09-20-0000.jpg)

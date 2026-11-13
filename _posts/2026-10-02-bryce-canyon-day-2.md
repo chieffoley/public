@@ -65,9 +65,9 @@ So, technically we did go to Zion, and we have the picture to prove it.
 ![0008]({{ site.image_base_url }}/images/2026-10-02-bryce-canyon-day-2/utah-2026-10-02-bryce-canyon-day-2-0008.jpg)
 _&nbsp; <a href='{% link photo_info/pi-2026-10-02-utah-2026-10-02-bryce-canyon-day-2-0008.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
-We headed back to Bryce, stopping at the house on the way back.  Lucas decided to take his truck for a solo drive around the area, while the rest of us went to Bryce.
+We made our way to Bryce, stopping at the house on the way back.  Lucas decided to take his truck for a solo drive around the area, while the rest of us went to Bryce.
 
-Once there, we headed to Sunset Point to start our hike.  The trail descends about 600 vertical feet via steep switchbacks to the amphitheater floor, then follows along the floor for a while before gradually climbin back up and exiting the amphitheater at Sunrise Point.  From there you can follow the Rim Trail back to Sunset Point.  In all it covers a little over three miles.  It is referred to as the Queen's/Navajo Combination Loop on the map below.
+Once there, we headed to Sunset Point to start our hike.  The trail descends about 600 vertical feet via steep switchbacks to the amphitheater floor, then follows along the floor for a while before gradually climbing back up and exiting the amphitheater at Sunrise Point.  From there you can follow the Rim Trail back to Sunset Point.  In all it covers a little over three miles.  It is referred to as the Queen's/Navajo Combination Loop on the map below.
 
 <a href='javascript:void(0);' name='map'></a>
 ![0009]({{ site.image_base_url }}/images/2026-10-02-bryce-canyon-day-2/trail.png)

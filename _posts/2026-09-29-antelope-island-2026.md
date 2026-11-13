@@ -13,7 +13,7 @@ On Tuesday Kristin and I took an early morning trip to Antelope Island to watch 
 _&nbsp;_
 
 
-It was another beautiful morning in Utah.  Antelope Island is filled with buffalo (or bison as some people call them), and it has a few antelope as well although we did not see any.  We came to here a couple years ago and loved it, so we decided to come back.
+It was another beautiful morning in Utah.  Antelope Island is filled with buffalo (or bison as some people call them), and it has a few antelope as well, though we did not see any.  We came to here a couple years ago and loved it, so we decided to come back.
 
 Antelope Island sits north of Salt Lake City and is a large island in the Great Salt Lake.  It seems that a lot of schools in the area take field trips here to study the Great Salt Lake, as we have seen the buses full of kids both times we came here.
 
@@ -131,7 +131,7 @@ _Uh oh, he spotted me.&nbsp; <a href='{% link photo_info/pi-2026-09-29-utah-2026
 ![0018]({{ site.image_base_url }}/images/2026-09-29-antelope-island-2026/utah-2026-09-29-antelope-island-0018.jpg)
 _&nbsp; <a href='{% link photo_info/pi-2026-09-29-utah-2026-09-29-antelope-island-0018.md %}'><i class='fa fa-info-circle' style='font-size: 0.73em;'></i></a>_
 
-This cow got all dolled up for the picture shoot, donning some rabbit-brush earrings.
+This cow got all dolled up for the picture shoot, donning some rabbitbrush earrings.
 
 <a href='javascript:void(0);' name='pic-0019'></a>
 ![0019]({{ site.image_base_url }}/images/2026-09-29-antelope-island-2026/utah-2026-09-29-antelope-island-0019.jpg)
